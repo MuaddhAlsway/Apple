@@ -1,0 +1,2086 @@
+body{
+    background: rgba(194, 194, 194, 0.557);
+}
+
+.div1{
+    width: 1236px;
+    height: 40px;
+    background: rgba(194, 194, 194, 0.557);
+    position: absolute;
+    left: -5px;
+    top: -1px;
+    
+
+}
+.apple{
+    width: 15px;
+    position: absolute;
+    top: 12px;
+    left: 150px;
+}
+.Store5{
+    position: absolute;
+    top: 13px;
+    left: 230px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+
+.Mac{
+    position: absolute;
+    top: 13px;
+    left: 300px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.ipad{
+    position: absolute;
+    top: 13px;
+    left: 370px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.iphone{
+    position: absolute;
+    top: 13px;
+    left: 440px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Watch{
+    position: absolute;
+    top: 13px;
+    left: 510px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Airpods{
+    position: absolute;
+    top: 13px;
+    left: 580px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.TV{
+    position: absolute;
+    top: 13px;
+    left: 660px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.entertinment{
+    position: absolute;
+    top: 13px;
+    left: 750px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Accessories{
+    position: absolute;
+    top: 13px;
+    left: 850px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Support{
+    position: absolute;
+    top: 13px;
+    left: 940px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.fa-magnifying-glass{
+    position: absolute;
+    top: 13px;
+    left: 1050px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.fa-bag-shopping{
+    position: absolute;
+    top: 13px;
+    left: 1100px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.div2{
+    width: 1235px;
+    height: 40px;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    left: -1px;
+    top: 35px;
+    z-index: 2;
+
+}
+.h7{
+    position: absolute;
+    left: 210px;
+    top: -11px;
+}
+span{
+    color: rgb(70, 70, 70);
+}
+.h8{
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    font-size: 45px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.img1{
+    position: absolute;
+    left: 950px;
+    top: 205px;
+    width: 45px;
+    border-radius: 30px;
+}
+.h9{
+    position: absolute;
+    left: 1000px;
+    top: 180px;
+    font-family: sans-serif;
+}
+.a1{
+    position: absolute;
+    left: 1000px;
+    top: 230px;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+}
+.a1:hover{
+text-decoration: underline;
+}
+.iphone15{
+    width: 100px;
+    position: absolute;
+    top: 400px;
+    left: 50px;
+}
+.MAC{
+    width: 180px;
+    position: absolute;
+    top: 400px;
+    left: 60px;
+}
+.h10{
+    position: absolute;
+    top: 480px;
+    left: 120px;
+    font-family: sans-serif;
+}
+.iphone15{
+    width: 130px;
+    position: absolute;
+    top: 400px;
+    left: 230px;
+}
+.h11{
+    position: absolute;
+    top: 480px;
+    left: 270px;
+    font-family: sans-serif;
+}
+.ipad1{
+    width:90px;
+    position: absolute;
+    top: 400px;
+    left: 390px;
+   
+}
+.h12{
+    position: absolute;
+    top: 480px;
+    left: 420px;
+    font-family: sans-serif;
+}
+.apple-watch{
+    width:150px;
+    position: absolute;
+    top: 400px;
+    left: 500px;
+}
+.h13{
+    position: absolute;
+    top: 480px;
+    left: 530px;
+    font-family: sans-serif;
+}
+.airpods1{
+    width:90px;
+    position: absolute;
+    top: 400px;
+    left: 690px;
+}
+.h14{
+    position: absolute;
+    top: 480px;
+    left: 710px;
+    font-family: sans-serif;
+}
+.airtag{
+    width:100px;
+    position: absolute;
+    top: 400px;
+    left: 800px;
+}
+.h15{
+    position: absolute;
+    top: 480px;
+    left: 830px;
+    font-family: sans-serif;
+}
+.tv{
+    width:90px;
+    position: absolute;
+    top: 400px;
+    left: 910px;
+}
+.h16{
+    position: absolute;
+    top: 480px;
+    left: 912px;
+    font-family: sans-serif;
+}
+.accessories{
+    width:80px;
+    position: absolute;
+    top:420px;
+    left: 1050px;
+}
+.h17{
+    position: absolute;
+    top: 480px;
+    left: 1050px;
+    font-family: sans-serif;
+}
+.h18{
+    position: absolute;
+    top: 600px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.h180{
+    position: absolute;
+    top: 1180px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.f1{
+    position: absolute;
+    top: 680px;
+    left: 90px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 330px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    transition:0.5s;
+
+}
+.f1:hover{
+box-shadow: 1px 1px 9px black;
+width: 335px;
+height: 425px;
+
+}
+.h19{
+    font-size: 12px;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h190{
+    font-size: 12px;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: orange;
+}
+.h191{
+    font-size: 12px;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(93, 93, 93);
+}
+.h20{
+    font-size: 25px;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h202{
+    font-size: 20px;
+    position: absolute;
+    top: 40px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h203{
+    font-size: 20px;
+    position: absolute;
+    top: 50px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 563;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h200{
+    font-size: 25px;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: white;
+}
+
+.h201{
+    font-size: 25px;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h210{
+    font-size: 15px;
+    position: absolute;
+    top: 105px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: white;
+}
+.h211{
+    font-size: 15px;
+    position: absolute;
+    top: 105px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h21{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.Macbook{
+    width: 300px;
+    position: absolute;
+    top: 250px;
+    left: 15px;
+}
+.f2{
+    position: absolute;
+    top: 680px;
+    left: 490px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 330px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: black;
+    transition:0.5s;
+}
+.f2:hover{
+    box-shadow: 1px 1px 9px black;
+    width: 335px;
+    height: 425px;
+    
+    }
+.h22{
+    font-size: 12px;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: white;
+}
+.h23{
+    font-size: 25px;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: white;
+}
+.h24{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: white;
+}
+.iphone16{
+    position: absolute;
+    top: 180px;
+    left: 25px;
+    width: 350px;
+}
+.f3{
+    position: absolute;
+    top: 680px;
+    left: 890px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 330px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    transition:0.5s;
+}
+.f3:hover{
+    box-shadow: 1px 1px 9px black;
+    width: 335px;
+    height: 425px;
+    
+    }
+.h31{
+    font-size: 12px;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h32{
+    font-size: 25px;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h33{
+    font-size: 15px;
+    position: absolute;
+    top: 100px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.iphone17{
+    position: absolute;
+    top: 80px;
+    left:80px;
+    width: 250px;
+}
+.h25{
+    position: absolute;
+    top: 1180px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.f4{
+    position: absolute;
+    top: 1250px;
+    left: 90px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 330px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: rgba(201, 255, 135, 0.333);
+    transition:0.5s;
+}
+.f4:hover{
+    box-shadow: 1px 1px 9px rgb(105, 105, 105);
+    width: 335px;
+    height: 425px;
+    
+    }
+.Store{
+    width: 400px;
+    position: absolute;
+    top: 20px;
+    left: -15px;
+}
+.Store3{
+    width: 400px;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+    .f7{
+        position: absolute;
+        top: 1250px;
+        left: 90px;
+        font-size: 30px;
+        font-family: sans-serif;
+        color: rgb(133, 133, 133);
+        width: 410px;
+        height: 420px;
+        border-radius: 10px;
+        border: none;
+        background: white;
+        transition:0.5s;
+    }
+    .f7:hover{
+        box-shadow: 1px 1px 9px rgb(105, 105, 105);
+     
+        }
+        .Store2{
+            width: 450px;
+            position: absolute;
+            top: -19px;
+            left: -15px;
+        }
+        .f8{
+            position: absolute;
+            top: 1250px;
+            left: 570px;
+            font-size: 30px;
+            font-family: sans-serif;
+            color: rgb(133, 133, 133);
+            width: 410px;
+            height: 420px;
+            border-radius: 10px;
+            border: none;
+            background-image: url(img/store-card-50-specialist-video-202309.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            transition:0.5s;
+        }
+        .f8:hover{
+            box-shadow: 1px 1px 9px rgb(105, 105, 105);
+         
+            }
+            .h30{
+                position: absolute;
+                top: 1180px;
+                left: 90px;
+                font-size: 25px;
+                font-family: sans-serif;
+                color: rgb(133, 133, 133);
+            }
+            .f9{
+                position: absolute;
+                top: 1250px;
+                left: 1050px;
+                font-size: 30px;
+                font-family: sans-serif;
+                color: rgb(133, 133, 133);
+                width: 410px;
+                height: 420px;
+                border-radius: 10px;
+                border: none;
+                background-image: url(img/store-card-50-TAA-202310.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                transition:0.5s;
+            }
+            .f9:hover{
+                box-shadow: 1px 1px 9px rgb(105, 105, 105);
+             
+                }
+                .h31{
+                    position: absolute;
+                    top: 1750px;
+                    left: 90px;
+                    font-size: 25px;
+                    font-family: sans-serif;
+                    color: rgb(133, 133, 133);
+                }
+                .f10{
+                    position: absolute;
+                    top: 1820px;
+                    left: 90px;
+                    font-size: 30px;
+                    font-family: sans-serif;
+                    color: rgb(133, 133, 133);
+                    width: 250px;
+                    height: 185px;
+                    border-radius: 10px;
+                    border: none;
+                    background: white;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    transition:0.5s;
+                }
+                .f10:hover{
+                    box-shadow: 1px 1px 9px rgb(105, 105, 105);
+                 
+                    }
+.truck{
+    width: 50px;
+    position: absolute;
+    left: 35px;
+    top: 15px;
+}
+.span1{
+    color: green;
+}
+.span2{
+    color: rgb(77, 77, 238);
+}
+.f11{
+    position: absolute;
+    top: 1820px;
+    left: 400px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 250px;
+    height: 185px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+}
+   
+
+.f11:hover{
+    box-shadow: 1px 1px 9px rgb(105, 105, 105);
+ 
+    }
+
+    .f12{
+        position: absolute;
+        top: 1820px;
+        left: 710px;
+        font-size: 30px;
+        font-family: sans-serif;
+        color: rgb(133, 133, 133);
+        width: 250px;
+        height: 185px;
+        border-radius: 10px;
+        border: none;
+        background: white;
+        background-repeat: no-repeat;
+        background-size: cover;
+        transition:0.5s;
+    }
+       
+    
+    .f12:hover{
+        box-shadow: 1px 1px 9px rgb(105, 105, 105);
+     
+        }
+        .truck1{
+            width: 60px;
+            position: absolute;
+            left: 30px;
+            top: 10px;
+        }
+        .truck2{
+            width: 50px;
+            position: absolute;
+            left: 30px;
+            top: 10px;
+        }
+        .f130{
+            position: absolute;
+            top: 1820px;
+            left: 1020px;
+            font-size: 30px;
+            font-family: sans-serif;
+            color: rgb(133, 133, 133);
+            width: 250px;
+            height: 185px;
+            border-radius: 10px;
+            border: none;
+            background: white;
+            background-repeat: no-repeat;
+            background-size: cover;
+            transition:0.5s;
+        }
+           
+        
+        .f13:hover{
+            box-shadow: 1px 1px 9px rgb(105, 105, 105);
+         
+            }
+
+.h310{
+    position: absolute;
+    top: 2100px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.f13{
+    position: absolute;
+    top: 2170px;
+    left: 90px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 330px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/accessories1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f13:hover{
+box-shadow: 1px 1px 9px black;
+width: 335px;
+height: 425px;
+
+}
+
+.h2100{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h2000{
+    font-size: 15px;
+    position: absolute;
+    top: 50px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h21{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h1900{
+    font-size: 25px;
+    position: absolute;
+    top: -25px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.f14{
+    position: absolute;
+    top: 2170px;
+    left: 480px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f14:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+
+.h2100{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h20000{
+    font-size: 15px;
+    position: absolute;
+    top: 340px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h2110{
+    font-size: 15px;
+    position: absolute;
+    top: 390px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h199{
+    font-size: 11px;
+    position: absolute;
+    top: 320px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(197, 116, 9);
+}
+.img2{
+    position: absolute;
+    top: 55px;
+    left: 30px;
+    width: 220px;
+    
+}
+.button1{
+    background: rgb(171, 171, 171);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 80px;
+}
+.button2{
+    background: rgba(249, 179, 73, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 100px;
+}
+.button3{
+    background: rgba(73, 246, 249, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 120px;
+}
+.button4{
+    background: rgba(54, 57, 180, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 140px;
+}
+.button5{
+    background: rgba(251, 47, 224, 0.61);
+
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 160px;
+}
+.button6{
+    background: rgba(220, 44, 167, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 180px;
+}
+.button7{
+    position: absolute;
+    top: 310px;
+    left: 200px;
+    border: none;
+    background: white;
+}
+.f15{
+    position: absolute;
+    top: 2170px;
+    left: 790px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f15:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.img3{
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    width: 220px;
+    
+}
+.button8{
+    background: rgb(241, 188, 12);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 80px;
+}
+.button9{
+    background: rgba(134, 83, 5, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 100px;
+}
+.button10{
+    background: rgba(82, 82, 5, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 120px;
+}
+.button11{
+    background: rgba(70, 56, 2, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 140px;
+}
+.button12{
+    background: rgba(61, 52, 31, 0.61);
+
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 160px;
+}
+.button13{
+    background: white;
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 180px;
+}
+
+.h2111{
+    font-size: 15px;
+    position: absolute;
+    top: 390px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.f16{
+    position: absolute;
+    top: 2170px;
+    left: 1100px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f16:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.img3{
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    width: 220px;
+    
+}
+.button14{
+    background: rgb(241, 188, 12);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 80px;
+}
+.button15{
+    background: rgba(239, 145, 3, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 100px;
+}
+.button16{
+    background: rgba(82, 82, 5, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 120px;
+}
+.button17{
+    background: rgba(70, 56, 2, 0.61);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 140px;
+}
+.button18{
+    background: rgba(61, 52, 31, 0.61);
+
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 160px;
+}
+.button19{
+    background: white;
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 180px;
+}
+
+.h2111{
+    font-size: 15px;
+    position: absolute;
+    top: 390px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+
+.h311{
+    position: absolute;
+    top: 2700px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.f17{
+    position: absolute;
+    top: 2770px;
+    left: 90px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 330px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/headphones.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f17:hover{
+box-shadow: 1px 1px 9px black;
+width: 335px;
+height: 425px;
+
+}
+.h2001{
+    font-size: 15px;
+    position: absolute;
+    top: 90px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.f18{
+    position: absolute;
+    top: 2770px;
+    left: 480px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f18:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+
+.h2100{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h20002{
+    font-size: 15px;
+    position: absolute;
+    top: 330px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h2111{
+    font-size: 14px;
+    position: absolute;
+    top: 380px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h1990{
+    font-size: 11px;
+    position: absolute;
+    top: 310px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(197, 116, 9);
+}
+.img2{
+    position: absolute;
+    top: 55px;
+    left: 30px;
+    width: 220px;
+    
+}
+.f19{
+    position: absolute;
+    top: 2770px;
+    left: 790px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f19:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+
+.h2100{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h20002{
+    font-size: 17px;
+    position: absolute;
+    top: 330px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h2111{
+    font-size: 14px;
+    position: absolute;
+    top: 380px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h1990{
+    font-size: 11px;
+    position: absolute;
+    top: 310px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(197, 116, 9);
+}
+.img2{
+    position: absolute;
+    top: 55px;
+    left: 30px;
+    width: 220px;
+    
+}
+.button19{
+    background: rgb(194, 194, 194);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 120px;
+}
+.button20{
+    background: black;
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 150px;
+}
+.f20{
+    position: absolute;
+    top: 2770px;
+    left: 1100px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f20:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+
+.h2100{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h20005{
+    font-size: 17px;
+    position: absolute;
+    top: 350px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h2112{
+    font-size: 14px;
+    position: absolute;
+    top: 380px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h1990{
+    font-size: 11px;
+    position: absolute;
+    top: 310px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(197, 116, 9);
+}
+.img2{
+    position: absolute;
+    top: 55px;
+    left: 30px;
+    width: 220px;
+    
+}
+.button21{
+    background: linear-gradient(to top,rgb(177, 176, 176),black);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 80px;
+}
+.button22{
+    background: linear-gradient(to top,#e0c54f80,rgb(241, 77, 77));
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 100px;
+}
+.button23{
+    background: linear-gradient(to top,#ffffff80,rgb(104, 104, 104));
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 120px;
+}
+.button24{
+    background: linear-gradient(to top,#ffffff80,rgb(7, 7, 7));
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 140px;
+}
+.button25{
+    background: linear-gradient(to top,#fffb2980,rgba(4, 31, 100, 0.621));
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 140px;
+}
+.button26{
+    background: linear-gradient(to top,#83da3c80,rgb(227, 28, 28));
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    top: 310px;
+    left: 160px;
+}
+.h1991{
+    font-size: 11px;
+    position: absolute;
+    top: 323px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(197, 116, 9);
+}
+.h3110{
+    position: absolute;
+    top: 3300px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.f21{
+    position: absolute;
+    top: 3370px;
+    left: 90px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 410px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/store-card-50-tv-services-202303.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f21:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.h300{
+    font-size: 27px;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: white;
+}
+
+.h3001{
+    font-size: 12px;
+    position: absolute;
+    top: 3px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 468;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: white;
+}
+.f22{
+    position: absolute;
+    top: 3370px;
+    left: 560px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 410px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/store-card-50-subscriptions-202108_GEO_US.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f22:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.h302{
+    font-size: 27px;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+
+.h30{
+    font-size: 12px;
+    position: absolute;
+    top: 3px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 468;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.f23{
+    position: absolute;
+    top: 3370px;
+    left: 1030px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 410px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/store-card-50-applecare-202309.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f23:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.h303{
+    font-size: 25px;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+
+.h30{
+    font-size: 12px;
+    position: absolute;
+    top: 3px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 468;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: black;
+}
+.h2002{
+    font-size: 16px;
+    position: absolute;
+    top: 70px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 461;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h3111{
+    position: absolute;
+    top: 3890px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+}
+.f24{
+    position: absolute;
+    top: 3960px;
+    left: 90px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 410px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/emoji.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f21:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.h3003{
+    font-size: 12px;
+    position: absolute;
+    top: 3px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 468;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(130, 130, 130);
+}
+.h3006{
+    font-size: 27px;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h2003{
+    font-size: 16px;
+    position: absolute;
+    top: 140px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 461;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.f25{
+    position: absolute;
+    top: 3960px;
+    left: 560px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 350px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/education.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f25:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.h3003{
+    font-size: 12px;
+    position: absolute;
+    top: 3px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 468;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(130, 130, 130);
+}
+.h3007{
+    font-size: 27px;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.h2003{
+    font-size: 16px;
+    position: absolute;
+    top: 140px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 461;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.f26{
+    position: absolute;
+    top: 3960px;
+    left:970px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(133, 133, 133);
+    width: 350px;
+    height: 420px;
+    border-radius: 10px;
+    border: none;
+    background: url(img/business.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:0.5s;
+
+}
+.f26:hover{
+box-shadow: 1px 1px 9px black;
+
+
+}
+.h3003{
+    font-size: 12px;
+    position: absolute;
+    top: 3px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 468;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: rgb(130, 130, 130);
+}
+.h3008{
+    font-size: 27px;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 561;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: white;
+}
+.h2003{
+    font-size: 16px;
+    position: absolute;
+    top: 140px;
+    left: 35px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 461;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: black;
+}
+.button27{
+    position: absolute;
+    top: 4530px;
+    left:90px;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid 1px black;
+}
+.button27:hover{
+    background: black;
+    color: white;
+}
+.button28{
+    position: absolute;
+    top: 4530px;
+    left:220px;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid 1px black;
+}
+.button28:hover{
+    background: black;
+    color: white;
+}
+.button29{
+    position: absolute;
+    top: 4530px;
+    left:350px;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid 1px black;
+}
+.button29:hover{
+    background: black;
+    color: white;
+}
+.button30{
+    position: absolute;
+    top: 4530px;
+    left:480px;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid 1px black;
+}
+.button30:hover{
+    background: black;
+    color: white;
+}
+.h111{
+    position: absolute;
+    top: 4450px;
+    left:90px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.img4{
+    position: absolute;
+    top: 5000px;
+    left:90px;
+    width: 20px;
+}
+p{
+    position: absolute;
+    top: 4985px;
+    left:90px;
+}

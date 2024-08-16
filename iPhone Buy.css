@@ -1,0 +1,3526 @@
+.header img{
+    width: 15px;
+    margin-left: 140px;
+    margin-right: 15px;
+    margin-top: 7px;
+}
+.header a{
+  
+    font-size: 12px;
+    text-decoration: none;
+    margin-right: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+.header .fa-magnifying-glass{
+margin-left: 30px;
+}
+.header .fa-bag-shopping{
+    margin-left: 30px;
+}
+
+.Deals{
+    margin: 30px 0px 0px 130px;
+    background: #adadad1d;
+    width: 980px;
+    height: 65px;
+    border-radius: 5px;
+}
+.Deals .Title h4{
+    margin: 0px 0px 0px 140px;
+    padding: 15px 0px 0px 0px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+}
+
+.Deals .Link{
+   
+    margin: 0px 0px 0px 140px;
+    padding: 2px 0px 0px 0px;
+}
+.Link a{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: rgb(63, 34, 227);
+    font-size: 13px;
+    text-decoration: none;
+}
+.Link a:hover{
+    text-decoration: underline;
+}
+.Deals .add-icon{
+    margin: -25px 0px 0px 220px;
+    padding: 10px 0px 0px 0px;
+   
+}
+.add-icon .img-add-icon{
+    width: 10px;
+    border: 1px blue solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+}
+.PayAsLow{
+    margin: -45px 0px 0px 310px;
+    padding: 10px 0px 0px 0px;
+}
+.PayAsLow .img-PayAsLow{
+    width: 22px;
+}
+.Title-PayAsLow{
+    margin: -60px 0px 0px 340px;
+    padding: 10px 0px 0px 0px;
+}
+
+.Title-PayAsLow .Title-PayLow{
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: black;
+}
+
+.Trade-In{
+    margin: -55px 0px 0px 490px;
+    padding: 10px 0px 0px 0px;
+}
+.Trade-In .img-Trade-In{
+    width: 22px;
+}
+
+.Title-Trade-In{
+    margin: -60px 0px 0px  520px;
+    padding: 10px 0px 0px 0px;
+}
+
+.Title-Trade-In .Title-Trade-In-Pay{
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: black;
+}
+.corect{
+    margin: -55px 0px 0px 690px;
+    padding: 10px 0px 0px 0px;
+}
+.corect .img-corect{
+    width: 22px;
+}
+
+.Title-corect{
+    margin: -60px 0px 0px  720px;
+    padding: 10px 0px 0px 0px;
+}
+
+.Title-corect .Title-corect-Pay{
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: black;
+}
+.Specilaist{
+   position: fixed;
+}
+.img-Specilaist{
+    width:50px;
+    background: rgba(0, 200, 255, 0.441);
+    border-radius: 50px;
+    position: fixed;
+    top: 540px;
+    left: 1165px;
+  
+}
+
+.Highlight{
+    margin: 25px 0px 0px 70px;
+}
+.Highlight h4{
+    font-size: 45px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    color: black;
+    margin: 70px 0px 0px 0px;
+}
+.Price{
+    margin: 10px 0px 0px 0px;
+}
+
+.Price h4{
+    font-size: 13px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    margin: 20px 0px 0px 0px;
+}
+
+.Button-1{
+    margin: -65px 0px 0px 870px;
+}
+
+.Button-1-Click{
+    padding: 10px 14px;
+    border: none;
+    border-radius: 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 12px;
+}
+
+
+.Button-1 .img-button-1{
+    width: 8px;
+    border: 1px blue solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+    
+}
+.Button-1 .img-button-1:hover{
+background: white;
+
+}
+
+.Button-2{
+    margin: 15px 0px 0px 835px;
+}
+
+.Button-2-Click{
+    padding: 10px 16px;
+  
+    border: none;
+    border-radius: 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 12px;
+}
+
+
+.Button-2 .img-button-2{
+    width: 8px;
+    border: 1px blue solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+
+}
+.Button-2 .img-button-2:hover{
+    background: white; 
+}
+
+.Gallary
+{
+        margin: 80px 0px 30px 65px;
+        overflow-x: hidden;
+        width: 710px;
+        height: 450px;
+        background: transparent;
+        border-radius: 15px;
+}
+.Gallary:hover
+{
+        overflow-x: scroll;
+        scrollbar-color: transparent transparent; 
+         
+}
+.iphone15Pro{
+    width: 750px;
+    height: 430px;
+    background-image: url(img/iphone-15-pro-model.png);
+    background-size: cover;
+    background-position: center;
+}
+.iPhone15Pro-MODEL{
+    width: 750px;
+    height: 430px;
+    background-image: url(img/iphone-15-pro-model-2.png);
+    background-size: cover;
+    background-position: center;
+    margin: -430px 0px 0px 750px;
+
+}
+.Features
+{
+        margin: -480px 0px 30px 815px;
+        overflow: hidden;
+        width: 350px;
+        height: 450px;
+        background: transparent;
+        border-radius: 15px;
+}
+.Features:hover
+{
+        overflow-y: scroll;
+        scrollbar-color: transparent transparent;  
+}
+span{
+    color: black;
+    font-weight: 600;
+
+}
+.Features .Title{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(196, 196, 196);
+    font-size: 22px;
+    margin-left:15px;
+}
+.Price-BestForYou{
+    margin-left:20px;
+}
+.Price-BestForYou-1{
+    width: 310px;
+    height: 90px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+}
+.Price-BestForYou-1 .Title-Price-BestForYou-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin-left:12px;
+}
+.Price-BestForYou-1 .Description-Price-BestForYou-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 11px;
+    margin:-5px 0px 0px 15px;
+}
+.Price-BestForYou-1 .instalment-Price-BestForYou-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:-50px 0px 0px 220px;
+}
+.Price-BestForYou-2a{
+    margin:15px 0px 0px 20px;
+}
+.Price-BestForYou-2{
+    width: 310px;
+    height: 90px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+}
+.Price-BestForYou-2 .Title-Price-BestForYou-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin-left:12px;
+}
+.Price-BestForYou-2 .Description-Price-BestForYou-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 11px;
+    margin:-5px 0px 0px 15px;
+}
+.Price-BestForYou-2 .instalment-Price-BestForYou-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:-50px 0px 0px 220px;
+}
+.Need-help{
+    margin:15px 0px 0px 20px;
+}
+.Choosing{
+    width: 310px;
+    height: 90px;
+    background:rgba(174, 174, 174, 0.317);
+    border: none;
+    border-radius: 10px;
+}
+.Choosing .Title-Choosing h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:18px;
+    padding: 15px 0px 0px 0px;
+}
+.Choosing .Description-Choosing p{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:-12px 0px 0px 17px;
+    padding: 0px 0px 0px 0px;
+}
+.add-icon-Choosing{
+   margin: -55px 0px 0px 280px;
+}
+.add-icon-Choosing .img-add-icon-choosing{
+    width: 10px;
+    border: 1px black solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+}
+.add-icon-Choosing .img-add-icon-choosing:hover{
+    background: white;
+}
+
+.Title-Another h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(196, 196, 196);
+    font-size: 22px;
+    margin: 80px 0px 0px 15px;
+}
+
+.Color-Features h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin:25px 0px 0px 15px;
+}
+
+.button-Features{
+    margin: 25px 0px 0px 15px;
+}
+
+.button-Features .button-1-features{
+    margin-right: 5px;
+}
+.button-Features button{
+    padding: 13px 13px;
+    border: none;
+    border-radius: 30px;
+    margin: 0px 0px 0px 5px;
+}
+.Storage-Title h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(196, 196, 196);
+    font-size: 22px;
+    margin: 80px 0px 0px 15px;
+}
+
+.Storage-YouNeed{
+    width: 310px;
+    height: 90px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    margin:30px 0px 0px 20px;
+}
+.Storage-YouNeed .Title-Storage-YouNeed-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin:35px 0px 0px 12px;
+}
+
+.Storage-YouNeed .instalment-Storage-YouNeed-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:-30px 0px 0px 220px;
+}
+.Storage-YouNeed-2{
+    width: 310px;
+    height: 90px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    margin:20px 0px 0px 20px;
+}
+.Storage-YouNeed-2 .Title-Storage-YouNeed-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin:35px 0px 0px 12px;
+
+}
+
+.Storage-YouNeed-2 .instalment-Storage-YouNeed-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:-30px 0px 0px 220px;
+}
+
+.Need-help{
+    margin:15px 0px 0px 20px;
+}
+.Choosing-1{
+    width: 310px;
+    height: 120px;
+    background:rgba(174, 174, 174, 0.317);
+    border: none;
+    border-radius: 10px;
+}
+
+
+.Choosing-1 .img-choosing-1{
+    background-image: url(img/iphone-storage-thumbnail.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    background-position-y: -50;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.Choosing-1 .img-choosing-1 h4{
+    display: none;
+}
+.Choosing-1 .img-choosing-1 img{
+    width: 25px;
+    margin:45px 0px 0px 45px;
+    background: #a7a7a775;
+    border-radius: 50px;
+    padding: 3px 2px;
+    padding-left: 4px;
+}
+.Choosing-1 .Title-Choosing h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:-120px 0px 5px 25px;
+    padding: 15px 0px 0px 110px;
+}
+.Choosing-1 .Description-Choosing p{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:1px 0px 0px 25px;
+    padding: 0px 0px 0px 110px;
+}
+.Choosing-1 .add-icon-Choosing{
+   margin: -85px 0px 0px 280px;
+}
+.Choosing-1 .add-icon-Choosing .img-add-icon-choosing{
+    width: 10px;
+    border: 1px black solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+}
+.Choosing-1 .add-icon-Choosing .img-add-icon-choosing:hover{
+    background: white;
+}
+
+.Apple-Trade-In{
+    margin:130px 0px 0px 60px;
+}
+.Apple-Trade-In .Apple-Trade-In-Title{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(196, 196, 196);
+    font-size: 22px;
+    margin: 80px 0px 0px 15px;
+}
+
+.Apple-Trade-In-1{
+    margin-left:20px;
+}
+.Apple-Trade-In-1{
+    width: 390px;
+    height: 80px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+}
+.Apple-Trade-In-1 .Title-Apple-Trade-In-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin-left:120px;
+}
+
+.Apple-Trade-In-1 .instalment-Apple-Trade-In-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:-20px 0px 0px 80px;
+}
+.Trade-In-side{
+    margin: -80px 0px 0px 420px;
+}
+.Trade-In-1{
+    width: 390px;
+    height: 80px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+}
+.Trade-In-1 .Title-Trade-In-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin: 30px 0px 0px 160px;
+}
+
+.get-Up{
+    margin: 15px 0px 0px 20px;
+    background: #d5d5d562;
+    width:790px;
+    height: 55px;
+    border-radius: 15px;
+}
+
+.get-Up .get-Up-Title h4{
+    margin: 0px 0px 0px 20px;
+    padding: 20px 0px 0px 0px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: black;
+    font-size: 14px;
+}
+.img-payGetUp{
+    margin: -22px 0px 0px 650px;
+
+}
+.get-Up .img-payGetUp img{
+    width: 30px;
+    
+}
+.img-TradeIn-getUp{
+    margin: -35px 0px 0px 700px;
+
+}
+.get-Up .img-TradeIn-getUp img{
+    width: 30px;
+    
+}
+.img-after-TradeIn-getUp{
+    margin: -35px 0px 0px 750px;
+
+}
+.get-Up .img-after-TradeIn-getUp img{
+    width: 30px;
+    
+}
+
+.payment-Features .Apple-Trade-In-Title{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(196, 196, 196);
+    font-size: 22px;
+    margin: 70px 0px 0px 15px;
+}
+.PaymentOptions{
+    margin:-10px 0px 0px 15px;
+}
+.PaymentOptions-1{
+    width: 240px;
+    height: 180px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+}
+
+.PaymentOptions-1 .Title-PaymentOptions-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin:20px 0px 0px 20px;
+}
+.PaymentOptions-1 .Price-PaymentOptions-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:10px 0px 0px 20px;
+}
+.PaymentOptions-1 .instalment-PaymentOptions-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:60px 0px 0px 20px;
+}
+
+
+
+.PaymentOptions-2{
+    width: 240px;
+    height: 180px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;    
+    margin: -180px 0px 0px 255px;
+}
+
+.PaymentOptions-2 .Title-PaymentOptions-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin:18px 0px 0px 20px;
+}
+.PaymentOptions-2 .Price-PaymentOptions-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:8px 0px 0px 20px;
+}
+
+.PaymentOptions-2 .instalment-PaymentOptions-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:40px 0px 0px 20px;
+}
+.PaymentOptions-3{
+    width: 240px;
+    height: 180px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;    
+    margin: -180px 0px 0px 510px;
+}
+
+.PaymentOptions-3 .Title-PaymentOptions-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin:18px 0px 0px 20px;
+}
+.PaymentOptions-3 .Price-PaymentOptions-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:8px 0px 0px 20px;
+}
+.PaymentOptions-3 .instalment-PaymentOptions-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:45px 0px 0px 20px;
+}
+
+.NotSure{
+    margin:15px 0px 0px 800px;
+}
+.CompareAll{
+    width: 310px;
+    height: 100px;
+    background:rgba(174, 174, 174, 0.146);
+    border: none;
+    border-radius: 10px;
+}
+
+
+
+
+.CompareAll .Title-CompareAll h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:-200px 0px 5px 0px;
+    padding: 15px 0px 0px 15px;
+}
+.CompareAll .Description-CompareAll p{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:5px 0px 0px 0px;
+    padding: 0px 0px 0px 15px;
+}
+.CompareAll .add-icon-CompareAll{
+   margin: -70px 0px 0px 280px;
+}
+.CompareAll .add-icon-CompareAll .img-add-icon-CompareAll{
+    width: 10px;
+    border: 1px black solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+}
+.CompareAll .add-icon-CompareAll .img-add-icon-CompareAll:hover{
+    background: white;
+}
+
+.Connectivity{
+    margin:-10px 0px 0px 15px;
+}
+.Connectivity .Apple-Trade-In-Title{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(196, 196, 196);
+    font-size: 22px;
+    margin: 170px 0px 0px 0px;
+}
+ 
+
+.Connectivity-side-1{
+    margin:-10px 0px 0px 0px;
+}
+.Connectivity-side-2{
+    margin:-10px 0px 0px 15px;
+}
+.Connectivity-side-3{
+    margin:-10px 0px 0px 15px;
+}.Connectivity-side-4{
+    margin:-10px 0px 0px 25px;
+}
+.Connectivity-side-5{
+    margin:-5px 0px 0px 5px;
+}
+.Connectivity-1{
+    width: 240px;
+    height: 100px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    
+}
+
+.Connectivity-1 .img-Connectivity-1 img{
+    width: 25px;
+    margin: 10px 0px 0px 15px;
+
+}
+.Connectivity-1 .Price-Connectivity-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:-25px 0px 0px 45px;
+}
+
+
+
+.Connectivity-2{
+    width: 240px;
+    height: 100px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    margin: -101px 0px 0px 240px;
+}
+
+.Connectivity-2 .img-Connectivity-2 img{
+    width: 25px;
+    margin: 10px 0px 0px 15px;
+
+}
+.Connectivity-2  .Price-Connectivity-2  h4{
+    font-family: serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(255, 0, 140);
+    font-size: 20px;
+    margin:-28px 0px 0px 40px;
+}
+
+.Connectivity-3{
+    width: 240px;
+    height: 100px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    margin: -101px 0px 0px 495px;
+}
+
+.Connectivity-3 .img-Connectivity-3 img{
+    width: 15px;
+    margin: 10px 0px 0px 70px;
+
+}
+.Connectivity-3  .Price-Connectivity-3  h4{
+    font-family: serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 20px;
+    margin:-20px 0px 0px 10px;
+}
+
+
+.Connectivity-Notes{
+    width: 310px;
+    height: 100px;
+    background:rgba(174, 174, 174, 0.135);
+    border: none;
+    border-radius: 10px;
+    margin: 20px 0px 0px 750px;
+}
+
+
+.Connectivity-Notes .img-Connectivity-Notes{
+    background-image: url(img/iphone-storage-thumbnail.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    background-position-y: -50;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.Connectivity-Notes .img-Connectivity-Notes h4{
+    display: none;
+}
+.Connectivity-Notes .img-Connectivity-Notes img{
+    width: 25px;
+    margin:45px 0px 0px 45px;
+    background: #cecdcd31;
+    border-radius: 50px;
+    padding: 3px 2px;
+    padding-left: 4px;
+}
+.Connectivity-Notes .Title-Connectivity-Notes h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:-120px 0px 5px 25px;
+    padding: 15px 0px 0px 0px;
+}
+.Connectivity-Notes .Description-Connectivity-Notes p{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:1px 0px 0px 25px;
+    padding: 0px 0px 0px 0px;
+}
+.Connectivity-Notes .add-icon-Connectivity-Notes{
+   margin: -75px 0px 0px 280px;
+}
+.Connectivity-Notes .add-icon-Connectivity-Notes .img-add-icon-Connectivity-Notes{
+    width: 10px;
+    border: 1px black solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+}
+.Connectivity-Notes .add-icon-Connectivity-Notes .img-add-icon-Connectivity-Notes:hover{
+    background: white;
+}
+
+.Connectivity-4{
+    width: 240px;
+    height: 100px;
+    background:transparent;
+    border: 1px rgba(114, 114, 114, 0.486) solid;
+    border-radius: 10px;
+    margin: 15px 0px 0px -45px;
+}
+
+
+.Connectivity-4 .Title-Connectivity-4 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:10px 0px 0px 15px;
+}
+
+.Connectivity-4 .Price-Connectivity-4 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    margin:15px 0px 0px 18px;
+}
+
+.Apple-Care{
+    margin:-10px 0px 215px 35px;
+}
+
+
+.Apple-Care .Apple-Trade-In-Title{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(196, 196, 196);
+    font-size: 22px;
+    margin: 80px 0px 0px -20px;
+}
+
+.ProtectYourNewiPhone{
+    width: 240px;
+    height: 290px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    margin: 15px 0px 0px -20px;
+}
+
+
+.ProtectYourNewiPhone .img-ProtectYourNewiPhone img{
+  
+    width: 15px;
+    margin:15px 0px 0px 15px;
+}
+
+.ProtectYourNewiPhone .Title-ProtectYourNewiPhone h4  {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:-22px 0px 0px 35px;
+}
+
+.Price-ProtectYourNewiPhone h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:2px 0px 0px 20px;
+}
+
+.line .hr-1{
+    width: 210px;
+    margin: 20px 0px 0px 15px;
+}
+
+
+
+.ProtectYourNewiPhone-list ul li{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    padding: 5px 0px 5px 0px;
+    margin: 0px 0px 0px -5px;
+}
+
+.ProtectYourNewiPhone-1{
+    width: 240px;
+    height: 290px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    margin: -290px 0px 0px 235px;
+}
+
+
+.ProtectYourNewiPhone-1 .img-ProtectYourNewiPhone-1 img{
+  
+    width: 15px;
+    margin:15px 0px 0px 15px;
+}
+
+.ProtectYourNewiPhone-1 .Title-ProtectYourNewiPhone-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:-22px 0px 0px 35px;
+}
+
+.ProtectYourNewiPhone-1 .Title-ProtectYourNewiPhone-1 .and{
+    margin:0px 0px 0px 15px;
+
+}
+
+.Price-ProtectYourNewiPhone-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin:2px 0px 0px 20px;
+}
+
+.line .hr-1{
+    width: 210px;
+    margin: 20px 0px 0px 15px;
+}
+
+
+
+.ProtectYourNewiPhone-1-list ul li{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    padding: 5px 0px 5px 0px;
+    margin: 0px 0px 0px -5px;
+}
+
+
+.ProtectYourNewiPhone-2{
+    width: 240px;
+    height: 290px;
+    background:transparent;
+    border: 1px rgb(114, 114, 114) solid;
+    border-radius: 10px;
+    margin: -290px 0px 0px 490px;
+}
+
+
+.ProtectYourNewiPhone-2 .Title-ProtectYourNewiPhone-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin:15px 0px 0px 15px;
+}
+
+.Video-Apple-Care{
+    margin:-290px 0px 0px 780px;
+}
+.Video-Apple-Care-1{
+    width: 310px;
+    height: 160px;
+    background:rgba(174, 174, 174, 0.317);
+    border: none;
+    border-radius: 10px;
+}
+
+
+.Video-Apple-Care-1 .img-Video-Apple-Care-1{
+    background-image: url(img/iphone-card.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 160px;
+    background-position-y: -50;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.Video-Apple-Care-1 .img-Video-Apple-Care-1 h4{
+    display: none;
+}
+.Video-Apple-Care-1 .img-Video-Apple-Care-1 img{
+    width: 25px;
+    background: #a7a7a775;
+    border-radius: 50px;
+    padding: 3px 2px;
+    margin:70px 0px 0px 45px;
+
+}
+.Video-Apple-Care-1 .Title-Video-Apple-Care-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:-155px 0px 5px 25px;
+    padding: 15px 0px 0px 110px;
+}
+
+
+.Video-Apple-Care-1 .Description-Video-Apple-Care-1 p{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin:1px 0px 0px 25px;
+    padding: 0px 0px 0px 110px;
+}
+.Video-Apple-Care-1 .add-icon-Video-Apple-Care-1{
+   margin: -130px 0px 0px 280px;
+}
+
+.Video-Apple-Care-1 .add-icon-Video-Apple-Care-1 .img-add-icon-Video-Apple-Care-1{
+    width: 10px;
+    border: 1px black solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+    
+}
+.Video-Apple-Care-1 .add-icon-Video-Apple-Care-1 .img-add-icon-Video-Apple-Care-1:hover{
+    background: white;
+}
+.Await{
+    background: #99999926;
+    width: 1215px;
+    height: 425px;
+    margin: 50px 0px 80px -7px;
+    
+}
+
+.Await-Features .Title-Await  h4 {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+    margin: 0px 0px 0px 80px;
+    padding: 40px 0px 0px 0px;
+}
+.Await-Features .img-Await img{
+    width: 380px;
+    margin: 40px 0px 0px 80px;
+}
+.Await-Features .Price-Awaite h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin: -370px 0px 0px 510px;
+}
+
+.Await-Features .Await-Daily-Cash h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #8e8e8e;
+    font-size: 13px;
+    margin: 15px 0px -15px 510px;
+}
+
+.Await-Features .Await-icon img{
+    width: 8px;
+    border: 1px rgb(126, 126, 126) solid;
+    padding: 2px 2px;
+    border-radius: 30px;
+    margin: 0px 0px 0px 747px;
+
+}
+
+.Await-Features .Await-icon img:hover{
+    background: white;
+}
+.Await-Truck{
+    margin: -60px 0px 0px 0px;
+}
+.Await-Features .Await-Truck img{
+    width: 25px;
+    margin: 0px 0px 0px 910px;
+
+}
+.Title-Await-Truck{
+    margin: -25px 0px 0px 0px;
+}
+
+.Await-Features .Title-Await-Truck h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+    margin: 0px 0px 0px 945px;
+}
+.Await-Features .Store-Apple-Await img{
+    width: 25px;
+    margin: 12px 0px 0px 910px;
+
+}
+.Title-Store-Apple-Await{
+    margin: -23px 0px 0px 0px;
+
+}
+.Await-Features .Title-Store-Apple-Await h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+    margin: 0px 0px 0px 945px;
+
+}
+
+.Button-Store-Apple-Await{
+    margin: 50px 0px 0px 0px;
+}
+
+.Await .Button-Store-Apple-Await button{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    font-size: 13px;
+    padding: 10px 75px;
+    background: rgb(1, 73, 255);
+    border-radius: 10px;
+    border: none;
+    margin: 10px 0px 0px 915px;
+}
+
+.icon-Store-Apple-Await{
+    margin: -35px 0px 0px 0px;
+}
+
+.Await .icon-Store-Apple-Await img{
+    width: 35px;
+    margin: 0px 0px 0px 1130px;
+}
+
+.Whats-In-The-Box .Title-Whats-In-The-Box h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    margin: 5px 0px 40px 490px;
+}
+
+.Whats-In-The-Box .Inside-In-The-Box{
+    width: 900px;
+    height: 300px;
+    background-color: #d8d8d821;
+    margin: 0px 0px 100px 150px;
+}
+
+.Inside-In-The-Box .In-The-box img{
+    width: 135px;
+    margin: -6px 0px 0px 290px;
+}   
+
+.USB-C-1-BOX {
+    margin: -220px 0px 0px 290px;
+}
+.Inside-In-The-Box .USB-C-1-BOX img{
+    width: 80px;
+    margin: -98px 0px 0px 240px;
+
+}
+
+.Inside-In-The-Box .Title-In-The-Box h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin: 15px 0px 0px 320px;
+}
+
+.Inside-In-The-Box .Title-USB-C h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    margin: -15px 0px 0px 500px;
+
+}
+
+
+.SoMuchMore .Title-SoMuchMore h2{
+    margin: 100px 0px 0px 350px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 35px;
+}
+
+.Apple-TV .img-Apple-TV img{
+    margin: 50px 0px 0px 200px;
+    width: 45px;
+
+}
+
+.Apple-TV .Title-Apple-TV h2{
+    margin: 20px 0px 0px 175px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 20px;
+}
+
+.Apple-TV .Describition-Apple-TV h2{
+    margin: 10px 0px 0px 130px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.AppleFitness{
+    margin: -100px 0px 0px 0px;
+}
+.AppleFitness{
+    margin: -135px 0px 0px 0px;
+}
+.SoMuch-Categries .AppleFitness .img-AppleFitness img{
+    margin: 0px 0px 0px 420px;
+    width: 45px;
+
+}
+
+
+.SoMuch-Categries .Title-AppleFitness h2{
+    margin: 18px 0px 0px 370px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 19px;
+}
+
+
+.SoMuch-Categries .Desribition-AppleFitness h2{
+    margin: 10px 0px 0px 360px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+
+.Apple-Arcade{
+    margin: -135px 0px 0px 300px;
+}
+
+
+.Apple-Arcade .img-AppleArcade  img{
+    margin: 0px 0px 0px 380px; 
+    width: 45px;
+
+}
+
+
+
+
+.Apple-Arcade .Title-AppleArcade h2{
+    margin: 20px 0px 0px 340px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 19px;
+}
+
+.Apple-Arcade .Describition-AppleArcade h2{
+    margin: 10px 0px 0px 310px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.AppleNews{
+    margin: -140px 0px 0px 920px;
+}
+
+
+.AppleNews .img-AppleNews img{
+ width: 45px;
+ margin: 10px 0px 0px 0px;
+}
+
+.AppleNews .Title-AppleNews h2{
+    margin: 15px 0px 0px -25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 19px;
+}
+
+.AppleNews .Describition-AppleNews h2{
+    margin: 10px 0px 0px -45px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 12px;
+}
+
+
+.WhichiPhoneIsWriteForYou{
+    margin: 250px 0px 0px 0px;
+   
+}
+
+.OurEnvironmentalGoals .Title-OurEnvironmentalGoals h4{
+    margin: 130px 0px 0px 550px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(142, 142, 142);
+    font-size: 13px;
+}
+
+.OurEnvironmentalGoals .Describtion-ourEnviromntalGoals h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(142, 142, 142);
+    font-size: 13px;
+    margin: 25px 0px 0px 150px;
+
+}
+
+.WhichiPhoneIsWriteForYou .Title-WhichiPhoneIsWriteForYou h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 35px;
+    margin: 100px 0px 0px 400px;
+}
+
+.Container-iPhone-15-Pro{
+    margin: 50px 0px 0px 100px;
+}
+.iphone-15-Pro-icon{
+    width: 200px;
+    height: 2500px;
+    background: blue;
+}
+.Categories-Device .iPhone-15-Pro-icon img{
+    width: 190px;
+}
+
+.Categories-Device .Button-iPhone-15-Pro-icon .Main-Button-iPhone-15-Pro-icon{
+    margin: 0px 0px 0px 55px;
+}
+
+.Categories-Device .Button-iPhone-15-Pro-icon button{
+    padding: 6px 6px;
+    margin: 25px 0px 0px 1px;
+    border: #8f8f8f 1px solid;
+    border-radius: 50px;
+}
+
+.New-iPhone-15-Pro-icon h4{
+    margin: 15px 0px 0px 70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #0b004ab3;
+    font-size: 13px;
+}
+
+.Title-iPhone-15-Pro-icon h4{
+    margin: 3px 0px 0px 20px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 25px;
+}
+
+.Quotes-iPhone-15-Pro-icon h4{
+    margin: 3px 0px 0px 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+}
+.Price-iPhone-15-Pro-icon{
+    margin: 60px 0px 0px 0px;
+}
+.Price-iPhone-15-Pro-icon a{
+    margin: 50px 0px 0px 70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+    text-decoration: none;
+}
+.Price-iPhone-15-Pro-icon a:hover{
+    text-decoration: underline;
+}
+
+.HR-2{
+    width: 180px;
+    margin: 40px 0px 0px 20px;
+}
+
+.Title-XDR-iPhone-15-Pro-icon h4{
+    margin: 35px 0px 0px 70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+}
+.Describiton-XDR-iPhone-15-Pro-icon h4{
+    margin: 12px 0px 0px 35px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.iPhone-15-Pro-icon .img-Material-iPhone-15-Pro-icon img{
+    margin: 55px 0px 0px 80px;
+    width: 50px;
+}
+
+.Title-Material-iPhone-15-Pro-icon h4{
+    margin: 12px 0px 0px 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+.Dynamic-island .img-Dynamic-island-iPhone-15-Pro-icon img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+
+.Dynamic-island .Title-Dynamic-island-iPhone-15-Dynamic-islandPro-icon h4{
+    margin: 12px 0px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.Dynamic-island .Describition-Dynamic-island-iPhone-15-Pro-icon h4{
+    margin: 12px 0px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.iPhone-15-Pro-icon .img-A17Pro-GPU-iPhone-15-Pro-icon img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+
+.iPhone-15-Pro-icon .Title-A17Pro-GPU-iPhone-15-Pro-icon h4{
+    margin: 12px 0px 0px 45px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+.iPhone-15-Pro-icon .img-ProCameraSystem-iPhone-15-Pro-icon img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+
+.iPhone-15-Pro-icon .Title-ProCameraSystem-iPhone-15-Pro-icon h4{
+    margin: 12px 0px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.iPhone-15-Pro-icon .Describition-ProCameraSystem-iPhone-15-Pro-icon h4{
+        margin: 12px 0px 0px 30px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #747474;
+        font-size: 13px;
+    }
+.iPhone-15-Pro-icon .Describition-ProCameraSystem-iPhone-15-Pro-icon .line-ProCameraSystem-iPhone-15-Pro-icon {
+        margin: 12px 0px 0px -12px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #747474;
+        font-size: 13px;
+    }
+
+.iPhone-15-Pro-icon .Highlight-ZoomRange h4{
+    margin: 40px 0px 0px 90px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    color: #000000;
+    font-size: 12px;
+}
+.iPhone-15-Pro-icon .Title-Highlight-ZoomRange p{
+    margin: 0px 0px 0px 85px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 750;
+    font-style: normal;
+    color: #000000;
+    font-size: 30px;
+}
+.iPhone-15-Pro-icon .Title-ZoomRange h4{
+    margin: 10px 0px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.iPhone-15-Pro-icon .iPhone-15-Pro-icon .img-SOS img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+.iPhone-15-Pro-icon .img-SOS img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+
+.iPhone-15-Pro-icon .Title-SOS h4{
+    margin: 10px 0px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+
+
+.iPhone-15-Pro-icon .Describition-SOS h4{
+    margin: 10px 0px 0px 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.iPhone-15-Pro-icon .Battary .img-Battary-iPhone-15-Pro img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+
+.iPhone-15-Pro-icon  .Describition-Battary h4{
+    margin: 10px 10px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.iPhone-15-Pro-icon  .USB-C{
+    margin: 15px 0px 0px 80px;
+}
+
+.USB-C .img-USB-C img{
+    margin: 30px 10px 0px 0px;
+    width: 40px;
+}
+
+
+
+.USB-C .Title-USB-C h2{
+    margin: 15px 0px 0px 0px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.USB-C .Describition-USB-C h2{
+    margin: 10px 0px 0px -25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.iPhone-15-Pro-icon .img-Face-id img{
+    margin: 30px 0px 0px 85px;
+    width: 40px;
+}
+
+.iPhone-15-Pro-icon .Title-Face-id h2{
+    margin: 10px 0px 0px 80px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+-----------------
+
+.iPhone-15-1-Container{
+    margin: 0px 0px 0px 0px;
+    background: black;
+}
+.iPhone-15-1{
+    width: 200px;
+    height: 2500px;
+    background: transparent;
+    margin: -2220px 0px 0px 380px;
+}
+
+
+.Categories-Device .iPhone-15-1 img{
+    width: 190px;
+}
+
+
+.iPhone-15-1 .Button-iPhone-15-1 .Main-Button-iPhone-icon{
+    margin: 0px 0px 0px 55px;
+}
+
+.Categories-Device .Button-iPhone-15-1 button{
+    padding: 6px 6px;
+    margin: 25px 0px 0px 1px;
+    border: #8f8f8f 1px solid;
+    border-radius: 50px;
+}
+
+
+.New-iPhone-15-1 h4{
+    margin: 15px 0px 0px 90px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #0b004ab3;
+    font-size: 13px;
+}
+
+.iPhone-15-1 .Title-iPhone-15-1 h4{
+    margin: 3px 0px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 25px;
+}
+
+
+.iPhone-15-1 .Quotes-iPhone-15-1 h4{
+    margin: 3px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 17px;
+}
+.Price-iPhone-15-1 h4{
+    margin: 60px 0px 0px 70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 14px;
+}   
+.HR-3{
+    width: 180px;
+    margin: 40px 0px 0px 20px;
+}
+
+.Title-XDR-iPhone-15-1 h4{
+    margin: 35px 0px 0px 70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+}
+.Describiton-XDR-iPhone-15-1 h4{
+    margin: 12px 0px 0px 35px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.Describiton-XDR-iPhone-15-1 .List-XDR ul {
+    list-style: none;
+}
+
+.Describiton-XDR-iPhone-15-1 .List-XDR ul li {
+    margin: 12px 0px 0px 75px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+
+.iPhone-15-1 .img-Material-iPhone-15-1 img{
+    margin: 45px 0px 0px 80px;
+    width:  50px;
+}
+
+.Title-Material-iPhone-15-1 h4{
+    margin: 12px 0px 0px 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+.iPhone-15-1 .img-Dynamic-island-iPhone-15-1 img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+
+.Title-Dynamic-island-iPhone-15-1 h4{
+    margin: 12px 0px 0px 60px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+.Describition-Dynamic-island-iPhone-15-Pro-icon h4{
+    margin: 12px 0px 0px 55px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+}
+
+.coreGPU .img-coreGPU img{
+    margin: 35px 0px 0px 80px;
+    width: 40px;
+}
+.coreGPU .Title-coreGPU h2{
+    margin: 12px 0px 0px 45px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+
+.iPhone-15-1 .img-ProCameraSystem-iPhone-15-1 img{
+    margin: 55px 0px 0px 80px;
+    width: 40px;
+}
+.ProCameraSystem-1 .Title-ProCameraSystem-iPhone-15-1 h4{
+    margin: 12px 0px 0px 5px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+.ProCameraSystem-1 .Describition-ProCameraSystem-iPhone-15-1 h4{
+        margin: 12px 0px 0px 30px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #747474;
+        font-size: 13px;
+    }
+.Describition-ProCameraSystem-iPhone-15-1 .line-ProCameraSystem-iPhone-15-1 {
+        margin: 12px 0px 0px -15px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #747474;
+        font-size: 13px;
+    }
+
+   
+.Title-Optical-Zoom h4{
+        margin: 55px 0px 0px 85px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 750;
+        font-style: normal;
+        color: #000000;
+        font-size: 30px;
+    }
+.Title-Opital-Zoom h4{
+        margin: 10px 0px 0px 50px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+
+ .SOS-iPhone-15-1 .img-SOS img{
+        margin: 50px 0px 0px 80px;
+        width: 40px;
+    }
+    
+    
+.Title-SOS h4{
+        margin: 10px 0px 0px 50px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .Describition-SOS h4{
+        margin: 10px 0px 0px 10px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    .Battary-1 .img-Battary img{
+        margin: 45px 0px 0px 80px;
+        width: 40px;
+    }
+    
+    .Battary-1 .Describition-Battary{
+        margin: 10px 10px 0px 50px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    .USB-C-1{
+        margin: -4px 0px 0px 80px;
+    }
+    
+    .USB-C-1 .img-USB-C-1 img{
+        margin: 30px 10px 0px 0px;
+        width: 40px;
+    }
+    
+    
+    
+    .USB-C-1 .Title-USB-C-1 h2{
+        margin: 15px 0px 0px 0px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .USB-C-1 .Describition-USB-C-1 h2{
+        margin: 10px 0px 0px -25px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .iPhone-15-Pro-icon .img-Face-id img{
+        margin: 25px 0px 0px 85px;
+        width: 40px;
+    }
+    
+    .iPhone-15-Pro-icon .Title-Face-id h2{
+        margin: 10px 0px 0px 80px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+
+    .iPhone-15-1 .img-Face-id img{
+        margin: 30px 0px 0px 85px;
+        width: 40px;
+    }
+    
+    .iPhone-15-1 .Title-Face-id h2{
+        margin: 10px 0px 0px 80px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+
+
+
+    
+    
+-----------
+.iPhone-14-Container{
+    margin: 0px 0px 0px 0px;
+    background: black;
+}
+.iPhone-14{
+    width: 205px;
+    height: 2500px;
+    background: transparent;
+    margin: -2500px 0px 0px 665px;
+}
+
+
+.Categories-Device .img-iPhone-14 img{
+    width: 190px;
+}
+
+.iPhone-14 .Button-img-iPhone-14 .Main-Button-iPhone-icon{
+    margin: 0px 0px 0px 50px;
+}
+
+.Categories-Device .Button-img-iPhone-14 button{
+    padding: 6px 6px;
+    margin: 25px 0px 0px 1px;
+    border: #8f8f8f 1px solid;
+    border-radius: 50px;
+}
+
+
+.New-iPhone-14 h4{
+    margin: 15px 0px 0px 90px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #0b004ab3;
+    font-size: 13px;
+}
+
+.iPhone-14 .Title-iPhone-14 h4{
+    margin: 32px 0px 0px 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 25px;
+}
+
+
+.iPhone-14 .Quotes-iPhone-14 h4{
+    margin: 3px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 17px;
+}
+.Price-iPhone-14 h4{
+    margin: 60px 0px 0px 70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 14px;
+}   
+.HR-3-1{
+    width: 180px;
+    margin: 40px 0px 35px 20px;
+}
+.Title-XDR-iPhone-14 h4{
+    margin: 35px 0px 0px 70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+}
+.XDR-iPhone-14 .Describiton-XDR-iPhone-14 h4{
+    margin: 12px 0px 0px 35px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+.XDR-iPhone-14 .Describiton-XDR-iPhone-14 .List-XDR ul {
+    list-style: none;
+}
+
+.XDR-iPhone-14 .Describiton-XDR-iPhone-14 .List-XDR ul li {
+    margin: 12px 0px 0px 75px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+
+.iPhone-14  .img-Material-iPhone-14 img{
+    margin: 45px 0px 0px 80px;
+    width:  50px;
+}
+
+.Title-Material-iPhone-14 h4{
+    margin: 12px 0px 0px 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+/*
+.iPhone-14  .img-Dynamic-island-iPhone-15-1 img{
+    margin: 50px 0px 0px 80px;
+    width: 40px;
+}
+*/
+.Title-Dynamic-island-iPhone-14 h4{
+    margin: 50px 0px 125px 100px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+    
+}
+/*
+.Describition-Dynamic-island-iPhone-15-Pro-icon h4{
+    margin: 12px 0px 0px 55px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+}
+*/
+.coreGPU .img-coreGPU img{
+    margin: 35px 0px 0px 80px;
+    width: 40px;
+}
+.coreGPU .Title-coreGPU h2{
+    margin: 12px 0px 0px 45px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+
+
+.iPhone-14  .img-ProCameraSystem-iPhone-15-1 img{
+    margin: 55px 0px 0px 80px;
+    width: 40px;
+}
+.ProCameraSystem-1 .Title-ProCameraSystem-iPhone-14 {
+    margin: 12px 0px 0px 45px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    color: #000000;
+    font-size: 13px;
+}
+.ProCameraSystem-1 .Describition-ProCameraSystem-iPhone-14 ul li{
+        margin: 12px 0px 0px -15px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #747474;
+        font-size: 13px;
+        list-style: none; 
+        padding: 9px 0px;
+      
+    }
+
+
+.ProCameraSystem-1 .Describition-ProCameraSystem-iPhone-15-1 .Describition-ProCameraSystem-iPhone-14 .li-1  {
+        margin: 12px 0px 0px 15px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #747474;
+        font-size: 13px;
+    }
+
+.ProCameraSystem-1 .Describition-ProCameraSystem-iPhone-14 .li-2{
+    margin: 12px 0px 0px 55px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #747474;
+        font-size: 13px;
+}
+   
+.Title-Optical-Zoom h4{
+        margin: 55px 0px 0px 85px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 750;
+        font-style: normal;
+        color: #000000;
+        font-size: 30px;
+    }
+.Title-Opital-Zoom h4{
+        margin: 10px 0px 0px 50px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+
+ .SOS-iPhone-14 .img-SOS img{
+        margin: 50px 0px 0px 80px;
+        width: 40px;
+    }
+    
+    
+.Title-SOS-iPhone-14 h4{
+        margin: 10px 0px 0px 50px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .Describition-SOS-iPhone-14 h4{
+        margin: 10px 0px 0px 10px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    .Battary-1-iPhone-14 .img-Battary-iPhone-14 img{
+        margin: 45px 0px 0px 80px;
+        width: 40px;
+    }
+    
+    .Battary-1-iPhone-14 .Describition-Battary-iPhone-14{
+        margin: 10px 10px 0px 50px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    .USB-C-1-iPhone-14{
+        margin: -4px 0px 0px 80px;
+    }
+    
+    .USB-C-1-iPhone-14 .img-USB-C-1-iPhone-14 img{
+        margin: 30px 10px 0px 0px;
+        width: 40px;
+    }
+    
+    
+    
+    .USB-C-1-iPhone-14 .Title-USB-C-1-iPhone-14 h2{
+        margin: 15px 0px 0px -10px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .USB-C-1-iPhone-14 .Describition-USB-C-1-iPhone-14 h2{
+        margin: 10px 0px 60px -25px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .img-Face-id-iPhone-15-Pro-icon img{
+        margin: 25px 0px 0px 85px;
+        width: 40px;
+    }
+    
+    .Title-Face-id-iPhone-15-Pro-icon h2{
+        margin: 10px 0px 0px 80px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+
+    .img-Face-id-iPhone-14-icon img{
+        margin: 30px 0px 0px 85px;
+        width: 40px;
+    }
+    
+    .Title-Face-id-iPhone-14-icon  h2{
+        margin: 10px 0px 0px 80px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+
+
+    -----------------
+
+    .iPhone-SE-Container{
+        margin: 0px 0px 0px 0px;
+        background: black;
+    }
+    .iPhone-SE{
+        width: 205px;
+        height: 2500px;
+        background: transparent;
+        margin: -2505px 0px 0px 950px;
+    }
+    
+    
+    .Categories-Device .img-iPhone-SE img{
+        width: 190px;
+    }
+    
+    .iPhone-SE  .Button-iPhone-SE .Main-Button-iPhone-icon{
+        margin: 0px 0px 0px 80px;
+    }
+    
+    .Categories-Device .Button-iPhone-SE button{
+        padding: 6px 6px;
+        margin: 25px 0px 0px 1px;
+        border: #8f8f8f 1px solid;
+        border-radius: 50px;
+    }
+    
+    
+    .New-iPhone-SE h4{
+        margin: 15px 0px 0px 90px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        color: #0b004ab3;
+        font-size: 13px;
+    }
+    
+    .iPhone-SE .Title-iPhone-SE h4{
+        margin: 35px 0px 0px 65px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        color: #000000;
+        font-size: 25px;
+    }
+    .iPhone-SE .Title-iPhone-SE h4 .Span-SE{
+        border: 2px black solid;
+        font-size: 12px;
+        border-radius: 5px;
+        padding: 2px 2px;
+    }
+    
+    
+    .iPhone-SE .Quotes-iPhone-SE h4{
+        margin: 3px 0px -18px 15px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+        font-size: 17px;
+    }
+    .Price-iPhone-SE h4{
+        margin: 60px 0px 0px 70px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        color: #000000;
+        font-size: 14px;
+    }   
+    .HR-3{
+        width: 180px;
+        margin: 40px 0px 0px 20px;
+    }
+
+    .iPhone-SE-Container .Title-XDR-iPhoneSE h4{
+        margin: 35px 0px 0px 100px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+        color: #000000;
+        font-size: 18px;
+    }
+
+    .iPhone-SE-Container  .Describiton-XDR-iPhoneSE h4{
+        margin: 12px 0px 0px 65px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .XDR  .Describiton-XDR-iPhoneSE .List-XDR ul {
+        list-style: none;
+    }
+    
+    .XDR .Describiton-XDR-iPhoneSE .List-XDR ul li {
+        margin: 12px 0px 0px 75px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    .iPhone-SE-Container   .img-Material-iPhone-SE img{
+        margin: 45px 0px 0px 80px;
+        width:  50px;
+    }
+    
+    .Title-Material-iPhone-SE h4{
+        margin: 12px 0px 0px 15px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    /*
+    .iPhone-14  .img-Dynamic-island-iPhone-15-1 img{
+        margin: 50px 0px 0px 80px;
+        width: 40px;
+    }
+    */
+    .Title-Dynamic-island-iPhone-SE h4{
+        margin: 50px 0px 125px 100px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+        
+    }
+    /*
+    .Describition-Dynamic-island-iPhone-15-Pro-icon h4{
+        margin: 12px 0px 0px 55px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #000000;
+    }
+    */
+    .coreGPU .img-coreGPU img{
+        margin: 35px 0px 0px 80px;
+        width: 40px;
+    }
+    .coreGPU .Title-coreGPU h2{
+        margin: 12px 0px 0px 45px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    
+    
+    .ProCameraSystem-1  .img-ProCameraSystem-iPhone-SE img{
+        margin: 55px 0px 0px 80px;
+        width: 40px;
+    }
+    .ProCameraSystem-1 .Title-ProCameraSystem-iPhone-SE {
+        margin: 12px 0px 0px 45px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 450;
+        font-style: normal;
+        color: #000000;
+        font-size: 13px;
+    }
+    .ProCameraSystem-1 .Describition-ProCameraSystem-iPhone-SE ul li{
+            margin: 12px 0px 0px -15px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 450;
+            font-style: normal;
+            color: #747474;
+            font-size: 13px;
+            list-style: none; 
+            padding: 9px 0px;
+          
+        }
+    
+    
+    .ProCameraSystem-1 .Describition-ProCameraSystem-iPhone-15-1 .Describition-ProCameraSystem-iPhone-14 .li-1  {
+            margin: 12px 0px 0px 15px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 450;
+            font-style: normal;
+            color: #747474;
+            font-size: 13px;
+        }
+    
+    .ProCameraSystem-1 .Describition-ProCameraSystem-iPhone-14 .li-2{
+        margin: 12px 0px 0px 55px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 450;
+            font-style: normal;
+            color: #747474;
+            font-size: 13px;
+    }
+       
+    .Title-Optical-Zoom-iPhone-SE h4{
+            margin: 55px 0px 0px 85px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 750;
+            font-style: normal;
+            color: #000000;
+            font-size: 30px;
+        }
+    .Title-Opital-Zoom-iPhone-SE h4{
+            margin: 10px 0px 0px 50px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 650;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+    
+     .SOS-iPhone-iPhone-SE .img-SOS-iPhone-SE img{
+            margin: 50px 0px 0px 80px;
+            width: 40px;
+        }
+        
+        
+    .Title-SOS-iPhone-SE h4{
+            margin: 10px 0px 0px 50px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 650;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+        
+        .Describition-SOS-iPhone-SE   .List-SOS-iPhone-SE ul {
+            list-style: none;
+            margin: 12px 0px 40px 60px;
+
+        }
+        
+        .XDRDescribition-SOS  .List-SOS-iPhone-SE ul li {
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 450;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+        .Battary-1 .img-Battary-iPhone-SE img{
+            margin: 45px 0px 0px 80px;
+            width: 40px;
+        }
+        
+        .Battary-1 .Describition-Battary-iPhone-SE{
+            margin: 10px 10px 0px 50px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+        .USB-C-1-iPhone-SE{
+            margin: -4px 0px 0px 80px;
+        }
+        
+        .USB-C-1-iPhone-SE .img-USB-C-1-iPhone-SE img{
+            margin: 30px 10px 0px 0px;
+            width: 40px;
+        }
+        
+        
+        
+        .USB-C-1-iPhone-SE .Title-USB-C-1-iPhone-SE h2{
+            margin: 15px 0px 0px -10px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+        
+        .USB-C-1-iPhone-SE .Describition-USB-C-1-iPhone-SE h2{
+            margin: 10px 0px 60px -25px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+        
+        .iPhone-SE .img-Face-id img{
+            margin: 25px 0px 0px 85px;
+            width: 40px;
+        }
+        
+        .iPhone-SE .Title-Face-id h2{
+            margin: 10px 0px 0px 80px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 600;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+    
+        .iPhone-SE .img-Face-id img{
+            margin: 30px 0px 0px 85px;
+            width: 40px;
+        }
+        
+        .iPhone-SE  .Title-Face-id h2{
+            margin: 10px 0px 0px 80px;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 600;
+            font-style: normal;
+            color: #000000;
+            font-size: 13px;
+        }
+
+.Compare-All-iPhoneModels{
+    margin: -180px 0px 0px 0px;
+}
+
+.Compare-All-iPhoneModels .Title-Compare-All-iPhone h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #2911ff;
+    font-size: 13px;
+    margin: 0px 0px 0px 550px;
+
+    
+}
+.Compare-All-iPhoneModels .Title-Compare-All-iPhone h4:hover{
+    text-decoration: underline;
+}
+.icon-Compare-All-iPhone{
+ margin: -15px 0px 0px 720px;
+}
+.Compare-All-iPhoneModels .icon-Compare-All-iPhone img{
+     width: 15px;
+    
+    
+}
+.HR-4{
+    width: 1215px;
+    margin: 50px 0px 0px -8px;
+}
+
+
+.Title-Frequently-Asked-Questions h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 25px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-Frequently-Asked-Questions{
+    margin: -45px 0px 0px 950px;
+}
+.icon-Frequently-Asked-Questions img{
+    width: 60px;
+
+}
+
+
+.Title-eSIM h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-eSIM{
+    margin: -30px 0px 0px 970px;
+}
+.icon-eSIM img{
+    width: 30px;
+}
+.Title-Active h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-Active{
+    margin: -30px 0px 0px 970px;
+}
+.icon-Active img{
+    width: 30px;
+}
+
+.HR-5{
+    width: 850px;
+    margin: 10px 0px 0px 150px;
+}
+.Title-ComeReady h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-ComeReady{
+    margin: -30px 0px 0px 970px;
+}
+.icon-ComeReady img{
+    width: 30px;
+}
+.Title-Unlocked h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-Unlocked{
+    margin: -30px 0px 0px 970px;
+}
+.icon-Unlocked img{
+    width: 30px;
+}
+
+.Title-Apple-Card-Installment h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-Apple-Card-Installment{
+    margin: -30px 0px 0px 970px;
+}
+.icon-Apple-Card-Installment img{
+    width: 30px;
+}
+
+.Title-Upgrade-Program h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-Upgrade-Program{
+    margin: -30px 0px 0px 970px;
+}
+.icon-Upgrade-Program img{
+    width: 30px;
+}
+
+
+.Title-disconnets h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-disconnets{
+    margin: -30px 0px 0px 970px;
+}
+.icon-disconnets img{
+    width: 30px;
+}
+
+
+.Title-Spring h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-Spring{
+    margin: -30px 0px 0px 970px;
+}
+.icon-Spring img{
+    width: 30px;
+}
+
+
+.Title-Sprint-customers h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 18px;
+    margin: 25px 0px 0px 150px;
+}
+.icon-Sprint-customers{
+    margin: -30px 0px 0px 970px;
+}
+.icon-Sprint-customers img{
+    width: 30px;
+}
+
+
+
+.Notes{
+    margin: 20px 0px 80px 120px;  
+    padding: 30px 0px 0px 0px;  
+    width: 990px;
+}
+
+.Notes p{
+    margin: 25px 0px -50px 80px;  
+    font-size: 12px;
+    margin: 8px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: #969696cf;
+
+}
+
+.Footer-Background{
+    background:rgba(210, 210, 210, 0.443);
+    width: 1218px;
+    height: 1290px;
+    margin: 0px 0px 0px -10px;
+}
+
+
+.Notes p a{
+    color: black;
+}
+.Notes hr{
+    width: 950px;
+    margin: 15px 0px -65px 30px;
+}
+
+.FOOTER{
+    width: 1050px;
+    margin: 5px 0px 150px 30px;
+}
+.FOOTER .FOOTER-LOGO .AppleLogo{
+    width: 15px;
+    margin: 0px 0px 10px 120px;
+    display: inline-block;
+
+}
+.FOOTER-Arrow{
+    margin:-28px 0px 0px 140px;
+}
+.FOOTER-Arrow1{
+    margin: -37px 0px 0px 280px;
+}
+.FOOTER .FOOTER-Arrow .fa-chevron-right{
+    margin: 0px 0px 0px 0px;
+
+}
+.FOOTER .FOOTER-Arrow1 .fa-angle-right{
+    margin: 20px 0px 0px 0px;
+
+}
+.FOOTER-text1 {
+    margin:-20px 0px 0px 160px;
+
+}
+.FOOTER .FOOTER-text1 a{
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgb(131, 131, 131);
+}
+.FOOTER-text1 a:hover{
+    text-decoration: underline;
+}
+.FOOTER-text{
+    margin:-20px 0px 0px 300px;
+
+}
+.FOOTER .FOOTER-text h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: rgb(131, 131, 131);
+}
+
+.FOOTER-list{
+    margin: 20px 0px 10px 120px;
+}
+.FOOTER .FOOTER-list h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+.ShopAndLearn a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ShopAndLearn a:hover{
+    text-decoration: underline;
+}
+.AppleWallet{
+    margin: 25px 0px 0px 0px;
+
+}
+.AppleWallet a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleWallet a:hover{
+    text-decoration: underline;
+}
+.Account{
+    margin: -440px 0px 0px 200px;
+}
+.Account a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.Account a:hover{
+    text-decoration: underline;
+}
+
+.Entertainment{
+    margin: 25px 0px 0px 200px;
+}
+
+.Entertainment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.Entertainment a:hover{
+    text-decoration: underline;
+}
+
+.AppleStore{
+    margin: -365px 0px 0px 400px;
+}
+.AppleStore a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleStore a:hover{
+    text-decoration: underline;
+}
+
+.ForBusiness{
+    margin: -298px 0px 0px 585px;
+}
+.ForBusiness a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForBusiness a:hover{
+    text-decoration: underline;
+}
+
+.ForEducation{
+    margin: 20px 0px 0px 585px;
+}
+.ForEducation a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForEducation a:hover{
+    text-decoration: underline;
+}
+
+.ForHealthcare{
+    margin: 20px 0px 0px  585px;
+}
+.ForHealthcare a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForHealthcare a:hover{
+    text-decoration: underline;
+}
+
+.ForGovernment{
+    margin: 20px 0px 0px  585px;
+}
+.ForGovernment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForGovernment a:hover{
+    text-decoration: underline;
+}
+.AppleValues{
+    margin: -385px 0px 0px 770px;
+}
+.AppleValues a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleValues a:hover{
+    text-decoration: underline;
+}
+.AboutApple{
+    margin: 20px 0px 0px 770px;
+}
+.AboutApple a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AboutApple a:hover{
+    text-decoration: underline;
+}
+.FOOTER-Last{
+    width: 1210px;
+    margin: -150px 0px 50px -5px;
+    padding: 40px 0px 0px 0px;
+}
+
+.FOOTER-Last p{
+    padding: 10px 0px 0px 150px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(114, 114, 114, 0.799);
+}
+
+.FOOTER-Last a{
+    color: rgba(0, 0, 255, 0.646);
+}
+
+.FOOTER-Last hr{
+    width: 950px;
+    margin: 20px 0px 0px 150px;
+}
+
+
+.FOOTER-COPYWRITING{
+    width: 950px;
+    margin: -50px 0px -100px 150px;
+    padding: 0px 0px 0px 0px;
+
+
+}
+
+.FOOTER-COPYWRITING p{
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(114, 114, 114, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a1{
+    display: inline-block;
+    padding: 0px 0px 0px 25px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a2{
+    display: inline-block;
+    padding: 0px 0px 0px 14px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING a{
+    display: inline-block;
+    padding: 0px 0px 0px 10px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a3{
+    display: inline-block;
+    padding: 0px 168px 0px 10px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+  color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING1{
+    margin: -35px 0px 30px 480px;
+    width: 500px;
+    padding: 0px 0px 0px 0px;
+
+   
+}
+.FOOTER-COPYWRITING1 .hr1{
+    width: 0px;
+    height: 9px;
+    margin: 12px 0px 0px 53px;
+    display: inline-block;
+
+}
+.FOOTER-COPYWRITING1 .hr2{
+    width: 0px;
+    height: 8px;
+    margin: 12px 0px 0px 83px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr3{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 112px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr4{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 40px;
+    display: inline-block;
+}

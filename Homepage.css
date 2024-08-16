@@ -1,0 +1,557 @@
+.div1{
+    width: 1220px;
+    height: 40px;
+    background: rgb(101, 101, 101);
+    position: fixed;
+    left: -1px;
+    top: -1px;
+    z-index: 2;
+
+}
+.apple{
+    width: 20px;
+    position: absolute;
+    top: 8px;
+    left: 150px;
+}
+.Store{
+    position: absolute;
+    top: 13px;
+    left: 230px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+
+.Mac{
+    position: absolute;
+    top: 13px;
+    left: 300px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.ipad{
+    position: absolute;
+    top: 13px;
+    left: 370px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.iphone{
+    position: absolute;
+    top: 13px;
+    left: 440px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Watch{
+    position: absolute;
+    top: 13px;
+    left: 510px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Airpods{
+    position: absolute;
+    top: 13px;
+    left: 580px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.TV{
+    position: absolute;
+    top: 13px;
+    left: 660px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.entertinment{
+    position: absolute;
+    top: 13px;
+    left: 750px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Accessories{
+    position: absolute;
+    top: 13px;
+    left: 850px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.Support{
+    position: absolute;
+    top: 13px;
+    left: 940px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.fa-magnifying-glass{
+    position: absolute;
+    top: 13px;
+    left: 1050px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+.fa-bag-shopping{
+    position: absolute;
+    top: 13px;
+    left: 1100px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+video{
+    position: absolute;
+    top: 35px;
+    left: -5px;
+    width: 1220px;
+}
+.Shop{
+    position: absolute;
+    top: 670px;
+    left: 550px;
+    color: blue;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.div2{
+    position: absolute;
+    top:720px;
+    left: -1px;
+    width: 1216px;
+    height: 560px;
+    background: black;
+}
+.img1{
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    width: 1200px;
+}
+.h7{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    left: 450px;
+    top: 40px;
+    font-family: sans-serif;
+}
+.p1{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    left: 420px;
+    top: 120px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.h8{
+    color: rgb(70, 94, 255);
+    font-size: 20px;
+    position: absolute;
+    left: 460px;
+    top: 140px;
+    font-weight: 200;
+}
+.h9{
+    color: rgb(70, 94, 255);
+    font-size: 20px;
+    position: absolute;
+    left: 680px;
+    top: 140px;
+    font-weight: 200;
+}
+.div3{
+    position: absolute;
+    top:1280px;
+    left: -1px;
+    width: 610px;
+    height: 560px;
+    background: rgba(160, 160, 160, 0.183);
+}
+.h10{
+    color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+    position: absolute;
+    left: 150px;
+    top: 30px;
+}
+.img2{
+    position: absolute;
+    top: 185px;
+    left: -70px;
+}
+.p2{
+    position: absolute;
+    left: 150px;
+    top: 90px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.p3{
+    position: absolute;
+    left: 140px;
+    top: 120px;
+    font-family: sans-serif;
+    color:#707070;
+    font-size: 18px;
+}
+.h11{
+    position: absolute;
+    left: 150px;
+    top: 140px;
+    color: blue;
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.h12{
+    position: absolute;
+    left: 290px;
+    top: 140px;
+    color: blue;
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.div4{
+    position: absolute;
+    top:1280px;
+    left:609px;
+    width: 606px;
+    height: 560px;
+    background:black
+}
+.h13{
+    color: white;
+    font-family: sans-serif;
+    font-size: 35px;
+    position: absolute;
+    left: 150px;
+    top: 30px;
+}
+.apple1{
+    width: 50px;
+    color: white;
+}
+.img2{
+    position: absolute;
+    top: 185px;
+    left: -70px;
+}
+.p4{
+    position: absolute;
+    left: 220px;
+    top: 90px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: red;
+}
+.p5{
+    position: absolute;
+    left: 150px;
+    top: 120px;
+    font-family: sans-serif;
+    color:white;
+    font-size: 20px;
+}
+.h14{
+    position: absolute;
+    left: 150px;
+    top: 140px;
+    color: rgb(103, 153, 255);
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.h15{
+    position: absolute;
+    left: 310px;
+    top: 140px;
+    color: rgb(103, 153, 255);
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.watch{
+    width: 350px;
+    position: absolute;
+    top: 220px;
+    left: 100px;
+
+}
+.div5{
+    position: absolute;
+    top:1840px;
+    left: -1px;
+    width: 610px;
+    height: 560px;
+    background: rgba(255, 206, 127, 0.183);
+}
+.h16{
+    color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+    position: absolute;
+    left: 220px;
+    top: 30px;
+}
+.IMG3{
+    position: absolute;
+    top: 200px;
+    left: 120px;
+    width: 300px;
+}
+.p6{
+    position: absolute;
+    left: 150px;
+    top: 90px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.h17{
+    position: absolute;
+    left: 150px;
+    top: 110px;
+    color: blue;
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.h18{
+    position: absolute;
+    left: 310px;
+    top: 110px;
+    color: blue;
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.div6{
+    position: absolute;
+    top:1840px;
+    left:609px;
+    width: 606px;
+    height: 560px;
+    background: rgba(255, 206, 127, 0.523);
+}
+.h19{
+    color: white;
+    font-family: sans-serif;
+    font-size: 35px;
+    position: absolute;
+    left: 150px;
+    top: 30px;
+}
+.apple1{
+    width: 50px;
+    color: white;
+}
+.img2{
+    position: absolute;
+    top: 185px;
+    left: -70px;
+}
+.p7{
+    position: absolute;
+    left: 220px;
+    top: 90px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: red;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 712;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.p8{
+    position: absolute;
+    left: 150px;
+    top: 120px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:512;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+   
+}
+.h20{
+    position: absolute;
+    left: 150px;
+    top: 140px;
+    color: rgb(103, 153, 255);
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.h21{
+    position: absolute;
+    left: 310px;
+    top: 140px;
+    color: rgb(103, 153, 255);
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.watch1{
+    width: 600px;
+    position: absolute;
+    top: 220px;
+    left: 5px;
+
+}
+.div7{
+    position: absolute;
+    top:2400px;
+    left: -1px;
+    width: 610px;
+    height: 560px;
+    background: rgba(116, 116, 116, 0.183);
+}
+.h25{
+    color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+    position: absolute;
+    left: 150px;
+    top: 30px;
+}
+
+.p9{
+    position: absolute;
+    left: 100px;
+    top: 90px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.h23{
+    position: absolute;
+    left: 150px;
+    top: 120px;
+    color: blue;
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.h24{
+    position: absolute;
+    left: 310px;
+    top: 120px;
+    color: blue;
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.apple2{
+    width: 30px;
+    color: white;
+}
+.IMG4{
+    position: absolute;
+    top: 200px;
+    left: 60px;
+    width: 480px;
+}
+.div8{
+    position: absolute;
+    top:2400px;
+    left:609px;
+    width: 606px;
+    height: 560px;
+    background: rgba(122, 122, 122, 0.523);
+}
+.h26{
+    color: rgba(75, 75, 75, 0.982);
+    font-family: sans-serif;
+    font-size: 35px;
+   
+    position: absolute;
+    left: 200px;
+    top: 30px;
+}
+.apple1{
+    width: 50px;
+    color: white;
+}
+.img2{
+    position: absolute;
+    top: 185px;
+    left: -70px;
+}
+
+.p10{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:512;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+    font-size: 22px;
+   
+}
+.h27{
+    position: absolute;
+    left: 150px;
+    top: 160px;
+    color: rgb(103, 153, 255);
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.h21{
+    position: absolute;
+    left: 310px;
+    top: 140px;
+    color: rgb(103, 153, 255);
+    font-size: 15px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.watch2{
+    width: 604px;
+    position: absolute;
+    top: 250px;
+    left: 1px;
+
+}

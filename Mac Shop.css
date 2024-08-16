@@ -1,0 +1,2709 @@
+body{
+    background: rgba(169, 169, 169, 0.183);
+    cursor: pointer;
+    
+}
+
+  
+
+/*
+    .header 
+    * =  sign for how much element in the this div
+    11 =   number of element in the div
+        1. contains 
+            a. img
+            b. a * 11
+            c. icon * 2
+
+*/
+.header img{
+    width: 15px;
+    margin-left: 140px;
+    margin-right: 5px;
+    margin-top: 7px;
+}
+.header a{
+  
+    font-size: 12px;
+    text-decoration: none;
+    margin-right: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+.header .fa-magnifying-glass{
+margin-left: 30px;
+}
+.header .fa-bag-shopping{
+    margin-left: 30px;
+}
+
+    /*
+    .div
+    * =  sign for how much element in the this div
+    11 =   number of element in the div
+        1. contains 
+            a. h2 
+            b. Elements contains
+                A and B
+
+                    A.  img =    .Specialist
+                    A.  h4  =     .Need
+                    A.  a   =      .Ask - .Ask:hover
+                            
+                ___________________________
+
+                    B.  img =  .Location  
+                    B.  h4  =  .Visit
+                    B.   a  =  .Near - .Near:hover
+
+*/ 
+.title{
+margin-bottom: -70px;
+}
+
+.title .Shop-title .Shop{
+margin: 95px 90px -90px 90px;
+font-size: 50px;
+font-family: "Anek Devanagari", sans-serif;
+font-optical-sizing: auto;
+font-weight: 585;
+font-style: normal;
+font-variation-settings:
+  "wdth" 100;
+  display: inline-block;
+}
+
+.title .Left-title .Specialist{
+width: 40px;
+border-radius: 50px;
+margin: -110px 0px 20px 960px;
+display: inline-block;
+
+}
+.title .Left-title .Need{
+margin: -60px 0px 5px 1010px;
+font-size: 13px;
+font-family: "Plus Jakarta Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 900;
+font-style: normal;
+color: black;
+}
+
+.title .Left-title .Ask {
+
+    margin: -190px 0px 0px 1010px;
+    font-size: 13px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: blue;
+    text-decoration: none;
+}
+.Ask:hover{
+    text-decoration: underline;
+    
+}
+.title .Left-title2 .Location{
+    width: 20px;
+border: 1px black solid;
+    padding: 7px;
+border-radius: 80px 80px 100px 100px;
+    margin:20px 0px 20px 965px;;
+}
+.title .Left-title2 .Visit{
+    margin: -60px 0px 5px 1010px;
+    font-size: 13px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    }
+.title .Left-title2 .Near {
+        margin: -190px 0px 0px 1010px;
+        font-size: 13px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+        color: blue;
+        text-decoration: none;
+    }
+.Near:hover{
+    text-decoration: underline;
+}
+/*
+ .Categories
+    * =  sign for how much element in the this div
+    11 =   number of element in the div
+
+            a. a * 7
+                1.:hover
+                2.Span just with (All Models)
+
+*/
+
+.Categories{
+    margin: 75px 40px -15px 50px;
+
+}
+
+.list .list-Categories{
+    margin: 0px 0px 20px 0px;
+    padding-top: 20px;
+}
+
+.List{
+    margin: 0px 0px 0px 50px;
+}
+.Categories  a{
+display: inline-block;
+padding: 0px 0px 0px 40px;
+text-decoration:none;
+font-size: 15px;
+font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+
+}
+.Categories a:hover{
+    color:rgba(144, 144, 144, 0.913)
+}
+.Categories  span{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    font-weight: 800;    
+}
+
+
+
+.All-Models {
+    margin: 90px 40px 0px 40px;
+    width: 1168px;
+}
+
+.All-Models h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    margin: 15px 0px 30px 50px;
+}
+.All-Models span{
+    color: black;
+    font-weight: 800;
+}
+
+
+.Product{
+    margin: 15px 0px 30px 50px;
+    overflow-x: hidden;
+
+}
+.Product:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;  
+   
+}
+
+
+
+.Product .M3-Models{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: 0px 0px 25px 0px;
+    transition: 1s ease-in all 0.2s;
+}
+
+.M3-Models:hover{
+box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+
+
+}
+.Product .M3-Models .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Product  .Air{
+    font-size: 25px;
+margin: -10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+}
+
+.Product .M3-Models .img-M3{
+background-size: contain;
+background-repeat: no-repeat;
+width: 310px;
+margin: 20px 0px 0px 40px;
+}
+
+
+.Product .M3-Models button{
+    margin: 30px -10px 0px 10px;
+    border-radius: 30px;
+    width: 10px;
+    height: 12px;
+    border: none;
+    display: inline-block;
+}
+.Product .M3-Models .button-left, .button-imac{
+    margin-left: 160px;
+    display: inline-block;
+
+}
+
+.Product .M3-Models p{
+    margin: 40px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+.Product .M3-Models .Buy{
+background: rgba(0, 0, 255, 0.683);
+border: none;
+border-radius: 50px;
+color: white;
+padding: 10px 15px;
+margin: 10px 0px 0px 50px;
+
+}
+
+
+
+.Product .MacBook{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: -525px 0px 25px 400px;
+    transition: 1s all ease-in 1s;
+
+}
+
+.MacBook:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+.Product .MacBook .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Product .MacBook .img-MacBook{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 310px;
+    margin: 20px 0px 0px 40px;
+}
+
+.Product .MacBook button{
+    margin: 30px -10px 0px 10px;
+    border-radius: 30px;
+    width: 10px;
+    height: 12px;
+    border: none;
+    display: inline-block;
+}
+.Product .MacBook .button-left{
+    margin-left: 160px;
+    display: inline-block;
+
+}
+
+
+.Product .MacBook p{
+    margin: 40px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+
+.Product .MacBook .Buy{
+    background: rgba(0, 0, 255, 0.683);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px 0px 0px 50px;
+    
+    }
+
+
+
+.Product  .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Product .iMac{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: -525px 0px 25px 800px;
+    transition: 1s all ease-in 1s;
+}
+.iMac:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+.Product .iMac .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Product .iMac .img-imac{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 320px;
+    margin: 20px 0px 0px 40px;
+}
+
+.Product .iMac button{
+    margin: 30px -10px 0px 10px;
+    border-radius: 30px;
+    width: 10px;
+    height: 12px;
+    border: none;
+    display: inline-block;
+}
+.Product .iMac .button-left{
+    margin-left: 160px;
+    display: inline-block;
+
+}
+.Product .iMac .p1{
+    margin: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.Product .iMac .Buy{
+    background: rgba(0, 0, 255, 0.683);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px 0px 0px 50px;
+    
+    }
+
+
+
+.Product .Macmini{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: -525px 0px 25px 1200px;
+    transition: 1s all ease-in 1s;
+
+}
+
+.Macmini:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+.Product .Macmini .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Product .Macmini .img-Macmini{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 320px;
+    margin: 20px 0px 0px 40px;
+}
+
+.Product .Macmini .p2{
+    margin: 73px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+
+.Product .Macmini .Buy{
+    background: rgba(0, 0, 255, 0.683);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px 0px 0px 50px;
+    
+    }
+
+.Product .MacStudio{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: -525px 0px 25px 1600px;
+    transition: 1s all ease-in 1s;
+
+    
+}
+
+.MacStudio:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+.Product .MacStudio .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Product .MacStudio .img-MacStudio{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    margin: 20px 0px 0px 95px;
+
+}
+
+.Product .MacStudio .p2{
+    margin: 90px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+
+.Product .MacStudio .Buy{
+    background: rgba(0, 0, 255, 0.683);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px 0px 0px 50px;
+    
+    }
+
+
+.Product .StudioDisplay{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: -525px 885px 25px 2000px;
+    transition: 1s all ease-in 1s;
+}
+
+
+    
+
+
+.StudioDisplay:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+.Product .StudioDisplay .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Product .StudioDisplay .img-StudioDisplay{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:  230px;
+    margin: 40px 0px 0px 95px;
+
+}
+
+.Product .StudioDisplay .p2{
+    margin: 35px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.Product .StudioDisplay .Buy{
+    background: rgba(0, 0, 255, 0.683);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px 0px 0px 50px;
+    
+    }
+
+
+
+.Product .MacPro{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: -525px 0px 25px 2400px;
+    transition: 1s all ease-in 1s;
+
+    
+}
+
+
+  
+
+
+.MacPro:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+
+.Product .MacPro .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.Product .MacPro .img-MacPro{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 180px;
+    margin: 40px 0px 0px 95px;
+
+}
+
+.Product .MacPro .p2{
+    margin: 40px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.Product .MacPro .Buy{
+    background: rgba(0, 0, 255, 0.683);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px 0px 0px 50px;
+    
+    }
+
+.Product .ProDisplayXDR{
+    background: white;
+    width: 380px;
+    height: 500px;
+    border-radius: 15px;
+    margin: -525px 0px 25px 2800px;
+    transition: 1s all ease-in 1s;
+
+}
+
+    
+
+
+
+  
+
+
+.ProDisplayXDR:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+
+
+
+
+.Product .ProDisplayXDR .M3{
+    font-size: 12px;
+    color: #a52a2aaf;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Product .ProDisplayXDR .img-ProDisplayXDR{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 230px;
+    margin: 40px 0px 0px 80px;
+
+}
+
+.Product .ProDisplayXDR .p2{
+    margin: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.Product .ProDisplayXDR .Buy{
+    background: rgba(0, 0, 255, 0.683);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px 0px 0px 50px;
+    
+    }
+
+
+
+
+
+.Shopping-Guides {
+        margin: 50px 40px 0px 40px;
+        width: 1168px;
+
+    }
+    
+.Shopping-Guides h3{
+        font-size: 25px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgb(155, 155, 155);
+        margin: 15px 0px 30px 50px;
+    }
+.Shopping-Guides span{
+        color: black;
+        font-weight: 800;
+    }
+    
+    
+
+
+
+
+.MacSpecialist{
+    margin: 10px 0px 50px 50px;
+    overflow-x: hidden;
+    
+}
+.MacSpecialist:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent; 
+}
+
+.MacSpecialist .compareAll{
+    background: white;
+    width: 470px;
+    height: 495px;
+    border-radius: 15px;
+    margin:25px 0px 25px 0px;
+    transition: 1s all ease-in 0s;
+    background-image: url(img/Mac-Compare.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.compareAll:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+    
+    }
+.MacSpecialist .compareAll .M3 {
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.MacSpecialist  .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+}
+/*
+.MacSpecialist .compareAll .img-CompareAll{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 470px;
+    margin:-90px 0px 0px 1px;
+    
+
+}
+*/
+    
+
+.MacSpecialist .ShopWith{
+    background: rgba(147, 147, 147, 0.107);
+    width: 420px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 490px;
+    transition: 1s all ease-in 1s;
+}
+.ShopWith:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+}
+
+.MacSpecialist .ShopWith .M3 {
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.MacSpecialist .ShopWith .Pro{
+    font-size: 25px;
+margin: 30px 0px -15px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+}
+
+.MacSpecialist .ShopWith .P-ShopWith{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+    margin: 25px 0px 1px 30px;
+}
+
+.MacSpecialist .ShopWith .img-Shopwith{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 460px;
+    margin: -160px 0px 0px 10px;
+
+}
+
+.MacSpecialist .OneOnOne{
+    background: rgba(255, 255, 255, 0.71);
+    width: 460px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 930px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/MacSPecialist.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+
+}
+
+.OneOnOne:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+}
+.MacSpecialist .OneOnOne .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+/*
+.MacSpecialist .OneOnOne .img-OneonOne{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 450px;
+    margin:-100px 0px 0px -11px;
+
+}
+    */
+
+.MacSpecialist .WatchAndLearn {
+    background: rgba(255, 255, 255, 0.71);
+    width: 420px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 85px 25px 1410px;
+    background-image: url(img/WatchAndLearn.png);
+    background-size: contain;
+    transition: 1s all ease-in 0s;
+    padding: 1px;
+
+}
+.WatchAndLearn:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+}
+
+.MacSpecialist .WatchAndLearn .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+ 
+}
+
+.MacSpecialist .WatchAndLearn .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+}
+
+.MacSpecialist .WatchAndLearn .footer{
+    background: white;
+    width: 422px;
+    height: 96px;
+    margin: 310px 0px 0px -1px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.MacSpecialist .WatchAndLearn .footer .p2{
+    margin: 45px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+.MacSpecialist .footer .img-footer{
+margin: -1000px 0px 5px 350px;
+width: 30px;
+background: rgba(135, 135, 135, 0.26);
+border-radius: 250px;
+padding: 7px 8px 7px 10px;
+display: inline-block;
+}
+
+
+
+.WaystoSave h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    margin: 15px 0px 30px 50px;
+}
+.WaystoSave span{
+    color: black;
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+.WaystoSave{
+    margin: 50px 40px 0px 40px;
+    
+}
+.FindWhat:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent; 
+    
+}
+
+.FindWhat{
+    margin: 10px 40px 0px 40px;
+    overflow-x: hidden;
+    width: 1128px;
+
+}
+
+.FindWhat .LowMonthlyPayment{
+    background: white;
+    width: 450px;
+    height: 495px;
+    border-radius: 15px;
+    margin: 25px 0px 25px 0px;
+    transition: 1s all ease-in 0s;
+    background-image: url(img/LowPaymentMonthly.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.LowMonthlyPayment:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+}
+
+.FindWhat .LowMonthlyPayment .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.FindWhat .LowMonthlyPayment .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+}
+/*
+.FindWhat .LowMonthlyPayment .img-LowMonthlyPayment{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 450px;
+    margin:-200px 0px 0px 10px;
+}
+    */
+
+.FindWhat .AppleTradeOn{
+    background: white;
+    width: 420px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 470px;
+    background-image: url(img/TradeIn.png);
+transition: 1s all ease-in 0s;
+
+}
+
+
+.AppleTradeOn, .AppleCard:hover{
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.279) ;
+    
+}
+.FindWhat .AppleTradeOn .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.FindWhat .AppleTradeOn .Pro{
+    font-size: 25px;
+    margin: 2px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 662;
+      font-style: normal;
+}
+
+.FindWhat .AppleCard{
+    background: rgba(255, 255, 255, 0.71);
+    width: 440px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 910px;
+    transition: 1s all ease-in 0s;
+    background-image: url(img/Apple\ Card.png);
+    background-size: contain;
+    
+}
+
+.FindWhat .AppleCard .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+
+}
+
+.FindWhat .AppleCard .Pro{
+    font-size: 25px;
+    margin: 2px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 662;
+      font-style: normal;
+}
+/*
+.FindWhat .AppleCard .img-AppleCard{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 450px;
+    margin:-100px 0px 0px 10px;
+    
+}
+    */
+
+.FindWhat .CertifiedRefurbished{
+    background: rgba(255, 255, 255, 0.71);
+    width: 445px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 85px 25px 1370px;
+    background-image: url(img/CERTIFIED\ REFURBISHED.png);
+    background-size: cover;
+    
+
+}
+
+.FindWhat .CertifiedRefurbished .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 350px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.FindWhat .CertifiedRefurbished .Pro{
+    font-size: 25px;
+    margin: 2px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 662;
+      font-style: normal;
+}
+
+.FindWhat .CertifiedRefurbished .img-CertifiedRefurbished{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 440px;
+    margin:-120px 0px 0px 10px;
+}
+    
+
+
+
+.EvenMoreReasons h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    margin: 15px 0px 30px 50px;
+}
+.EvenMoreReasons span{
+    color: black;
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+.EvenMoreReasons{
+    margin: 50px 40px 0px 40px;
+    overflow-x: hidden;
+}
+
+.CustomizeYourMac{
+    margin: 3px 40px 0px 40px;
+
+}
+
+
+
+
+.CustomizeYourMac .Customizing{
+    background: white;
+    width: 950px;
+    height: 495px;
+    border-radius: 15px;
+    margin: 25px 0px 105px 0px;
+    transition: 1s all ease-in 0s;
+
+}
+
+.CustomizeYourMac .Customizing .M3{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    padding: 30px 0px 0px 350px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.CustomizeYourMac .Customizing .Pro{
+    font-size: 15px;
+    margin: -25px 0px 0px 290px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+}
+
+.CustomizeYourMac .Customizing video{
+    width: 950px;
+    margin: 49px 0px 0px 0px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+
+.Accessories h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    margin: 15px 0px 30px 50px;
+}
+.Accessories span{
+    color: black;
+    font-weight: 800;
+}
+
+
+
+
+
+
+.Accessories{
+    margin: 10px 40px 0px 40px;
+    width: 1168px;
+}
+.FindWhat:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent; 
+}
+
+.MadeForMac{
+    margin: 3px 0px 80px 40px;
+    overflow-x: hidden;
+
+}
+
+
+
+
+.MadeForMac:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;
+     
+}
+ .MadeForMac .GetMost{
+    background: white;
+    width: 380px;
+    height: 495px;
+    border-radius: 15px;
+    margin: 25px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Most-Product.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.MadeForMac .GetMost .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+ .MadeForMac .GetMost .Pro{
+    font-size: 25px;
+    margin: 2px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 662;
+      font-style: normal;
+}
+/*
+.MadeForMac .GetMost .img-GetMost{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 380px;
+    margin:-88px 0px 0px 0px;
+}
+    */
+.MadeForMac .Charger{
+    background: white;
+    width: 320px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 405px;
+    
+
+}
+
+ .MadeForMac .Charger .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+
+ .MadeForMac .Charger .img-Charger{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 235px;
+    margin: 30px 0px 0px 40px;
+}
+.MadeForMac .Charger .p2{
+    margin: 70px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+}
+
+ .MadeForMac .Charger p{
+    margin: 20px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+  
+}
+
+ .MadeForMac .USB{
+    background: white;
+    width: 320px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 750px;
+
+}
+ .MadeForMac .USB .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+ .MadeForMac .USB .img-USB{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 235px;
+    margin: 30px 0px 0px 40px;
+}
+
+ .MadeForMac .USB button{
+    margin: 30px -10px 0px 10px;
+    border-radius: 30px;
+    width: 10px;
+    height: 12px;
+    border: none;
+    display: inline-block;
+}
+.MadeForMac .USB .button-USB{
+    margin-left: 120px;
+    display: inline-block;
+}
+.MadeForMac .USB .p2{
+    margin: 27px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+}
+.MadeForMac .USB P{
+    margin: 20px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+  
+}
+.MadeForMac .StudioDisplay-MadeForMac .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.MadeForMac .StudioDisplay-MadeForMac{
+    background: white;
+    width: 320px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 1095px;
+}
+
+.MadeForMac .StudioDisplay-MadeForMac .img-StudioDisplay{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:  205px;
+    margin: 30px 0px 0px 60px;
+}
+
+.MadeForMac .StudioDisplay-MadeForMac .p2{
+    margin: 50px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.MadeForMac .StudioDisplay-MadeForMac p{
+    margin: 22px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+}
+
+.MadeForMac .MagicKeyboards{
+    background: white;
+    width: 320px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 1440px;
+}
+
+.MadeForMac .MagicKeyboards .img-MagicKeyboards{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:  245px;
+    margin: 70px 0px 0px 40px;
+}
+.MadeForMac .MagicKeyboards button{
+    margin: 30px -10px 0px 10px;
+    border-radius: 30px;
+    width: 10px;
+    height: 12px;
+    border: none;
+    display: inline-block;
+}
+.MadeForMac .MagicKeyboards .button-MagicKeyboards{
+    margin-left: 150px;
+    display: inline-block;
+}
+.MadeForMac .MagicKeyboards .p2{
+    margin: 20px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+}
+.MadeForMac .MagicKeyboards p{
+    margin: 25px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+}
+
+.MadeForMac .Magic-trackpad{
+    background: white;
+    width: 320px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 0px 25px 1785px;
+}
+
+.MadeForMac .Magic-trackpad .img-MagicKeyboards{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:  245px;
+    margin: 70px 0px 0px 40px;
+}
+.MadeForMac .Magic-trackpad button{
+    margin: 30px -10px 0px 10px;
+    border-radius: 30px;
+    width: 10px;
+    height: 12px;
+    border: none;
+    display: inline-block;
+}
+.MadeForMac .Magic-trackpad .button-trackpack{
+    margin-left: 150px;
+    display: inline-block;
+}
+.MadeForMac .Magic-trackpad .p2{
+    margin: 20px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+}
+.MadeForMac .Magic-trackpad p{
+    margin: 25px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+}
+
+
+
+
+.MadeForMac .Magic-Mouse{
+    background: white;
+    width: 320px;
+    height: 495px;
+    border-radius: 15px;
+    margin: -520px 75px 25px 2130px;
+
+}
+
+.MadeForMac .Magic-Mouse .img-MagicKeyboards{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:  245px;
+    margin: 70px 0px 0px 40px;
+}
+.MadeForMac .Magic-Mouse button{
+    margin: 30px -10px 0px 10px;
+    border-radius: 30px;
+    width: 10px;
+    height: 12px;
+    border: none;
+    display: inline-block;
+}
+.MadeForMac .Magic-Mouse .button-trackpack{
+    margin-left: 150px;
+    display: inline-block;
+}
+.MadeForMac .Magic-Mouse .p2{
+    margin: 20px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+}
+.MadeForMac .Magic-Mouse p{
+    margin: 25px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+}
+
+
+.SetupAndSupport{
+    margin: 10px 40px 0px 40px;
+    width: 1167px;
+}
+.SetupAndSupport h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    margin: 15px 0px 30px 50px;
+}
+.SetupAndSupport span{
+    color: black;
+    font-weight: 800;
+}
+.OurSpecialists{
+    margin: 15px 0px 60px 50px;
+    overflow-x: hidden;
+    
+    
+}
+.OurSpecialists:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;
+     
+}
+.OurSpecialists .EasyDataTransfer{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: 25px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Easy\ Data\ transfer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.OurSpecialists .EasyDataTransfer .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.OurSpecialists .EasyDataTransfer .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+
+}
+
+.OurSpecialists .EasyDataTransfer .img-LowMonthlyPayment{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 450px;
+    margin:-200px 0px 0px 10px;
+}
+.OurSpecialists .EasyDataTransfer .img-EasyDataTransfer{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:  460px;
+    margin: -145px 0px 0px 5px;
+}
+.AppleCare{
+    background: white;
+    width: 420px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 485px;
+    background-image: url(img/AppleCare+.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.OurSpecialists .AppleCare .M3{
+    font-size: 12px;
+    color: rgb(125, 125, 125);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.OurSpecialists .AppleCare .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+}
+.OurSpecialists .AppleCare .footer{
+    background: #ffffff7a;;
+    width: 420px;
+    height: 96px;
+    margin: 260px 0px 0px 0px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.OurSpecialists .AppleCare .footer .p2{
+    margin: 25px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.OurSpecialists .AppleCare .footer .img-footer{
+margin: -1100px 0px 10px 350px;
+width: 30px;
+background: rgba(216, 215, 215, 0.87);
+border-radius: 250px;
+padding: 7px 8px 7px 10px;
+display: inline-block;
+
+}
+.AppleAtToday{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 930px;
+    background-image: url(img/Today\ AT\ Apple.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.OurSpecialists .AppleAtToday .M3{
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.OurSpecialists .AppleAtToday .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+.OurSpecialists .AppleAtToday p{
+    font-size: 15px;
+    margin: 8px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgb(255, 255, 255);
+}
+
+.OurSpecialists .OnlinePersonalSession{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 75px 25px 1410px;
+    background-image: url(img/OnlinePersonalSession.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.OurSpecialists .OnlinePersonalSession .M3{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.OurSpecialists .OnlinePersonalSession .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+
+
+.TheMacExperience h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    margin: 15px 0px 30px 50px;
+}
+
+.TheMacExperience span{
+    color: black;
+    font-weight: 800;
+}
+.TheMacExperience{
+    margin: 10px 40px 80px 40px;
+    width: 1168px;
+
+    
+    
+}
+.connectWithEverythingApple{
+    margin: 15px 0px 30px 50px;
+    overflow-x: hidden;
+    
+    
+}
+.connectWithEverythingApple:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparentblack transparent;
+     
+}
+
+
+
+.connectWithEverythingApple .WhyMac{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: 25px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Why\ Mac.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.connectWithEverythingApple .WhyMac .M3{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.connectWithEverythingApple .WhyMac .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+
+.connectWithEverythingApple .MACOS{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 480px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/MACOS.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.connectWithEverythingApple .MACOS .M3{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.connectWithEverythingApple .MACOS .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+.connectWithEverythingApple .ICLOUD{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 960px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/ICLOUD+.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.connectWithEverythingApple .ICLOUD .M3{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.connectWithEverythingApple .ICLOUD .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+
+.connectWithEverythingApple .APPLETV{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 1440px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/AppleTV+.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.connectWithEverythingApple .APPLETV .M3{
+    font-size: 12px;
+    color: #fffffffc;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.connectWithEverythingApple .APPLETV .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.connectWithEverythingApple .APPLEAT{
+    background: transparent;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 1920px;
+    transition: 1s all ease-in 1s;
+}
+
+
+.connectWithEverythingApple .APPLEATCOLLEGE{
+    background: white;
+    width: 460px;
+    height: 235px;
+    border-radius: 15px;
+    margin: -500px 0px -10px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/MacCollege.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.connectWithEverythingApple .APPLEATCOLLEGE .M3{
+    font-size: 12px;
+    color: #fffffffc;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.connectWithEverythingApple .APPLEATCOLLEGE .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.connectWithEverythingApple .APPLEATCOLLEGE p{
+    font-size: 17px;
+    margin: 8px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgb(255, 255, 255);
+}
+
+
+.connectWithEverythingApple .APPLEATWORK{
+    background: white;
+    width: 460px;
+    height: 220px;
+    border-radius: 15px;
+    margin: 30px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/APPLEATWORK.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.connectWithEverythingApple .APPLEATWORK .M3{
+    font-size: 12px;
+    color: #fffffffc;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.connectWithEverythingApple .APPLEATWORK .Pro{
+    font-size: 22px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.connectWithEverythingApple .SiXAPPLE{
+    background: white;
+    width: 460px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 75px 25px 2400px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/SIX-APPLE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.connectWithEverythingApple .SiXAPPLE .M3{
+    font-size: 12px;
+    color: #fffffffc;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.connectWithEverythingApple .SiXAPPLE .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: black;
+}
+.SpecialStores{
+   
+    width: 1158px;   
+}
+
+.SpecialStores h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    margin: 15px 0px 30px 50px;
+}
+
+.SpecialStores span{
+    color: black;
+    font-weight: 800;
+}
+.ExclusiveSavings{
+    margin: 15px 0px 30px 50px;
+    overflow-x: hidden;
+    
+    
+}
+.ExclusiveSavings:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparentblack transparent;
+     
+}
+.ExclusiveSavings .Education{
+    background: white;
+    width: 390px;
+    height: 475px;
+    border-radius: 15px;
+    margin: 25px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Education.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ExclusiveSavings .Education .M3{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.ExclusiveSavings .Education .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+.ExclusiveSavings .Business{
+    background: white;
+    width: 390px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 410px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Business.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ExclusiveSavings .Business .M3{
+    font-size: 12px;
+    color: #ffffff86;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.ExclusiveSavings .Business .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+
+.ExclusiveSavings .GOVERNMENT{
+    background: rgba(255, 255, 255, 0.731);
+    width: 390px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 0px 25px 820px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Goverment.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ExclusiveSavings .GOVERNMENT .M3{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.ExclusiveSavings .GOVERNMENT .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+.ExclusiveSavings .VeteransAndDmilitary{
+    background: white;
+    width: 390px;
+    height: 475px;
+    border-radius: 15px;
+    margin: -500px 75px 25px 1230px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/VETERANS\ AND\ MILITARY.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ExclusiveSavings .VeteransAndDmilitary .M3{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.653);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.ExclusiveSavings .VeteransAndDmilitary .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+.Notes{
+    margin: 85px 0px 80px 120px;    
+    width: 990px;
+}
+
+.Notes p{
+    margin: 25px 0px -50px 80px;  
+    font-size: 12px;
+    margin: 8px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgba(96, 96, 96, 0.813);
+
+}
+
+.Notes p a{
+    color: black;
+}
+.Notes hr{
+    width: 950px;
+    margin: 15px 0px -65px 30px;
+}
+
+.FOOTER{
+    width: 1050px;
+    margin: 5px 0px 150px 30px;
+}
+.FOOTER .FOOTER-LOGO .AppleLogo{
+    width: 15px;
+    margin: 0px 0px 10px 120px;
+    display: inline-block;
+
+}
+.FOOTER-Arrow{
+    margin:-28px 0px 0px 140px;
+}
+.FOOTER-Arrow1{
+    margin: -37px 0px 0px 280px;
+}
+.FOOTER .FOOTER-Arrow .fa-chevron-right{
+    margin: 0px 0px 0px 0px;
+
+}
+.FOOTER .FOOTER-Arrow1 .fa-angle-right{
+    margin: 20px 0px 0px 0px;
+
+}
+.FOOTER-text1 {
+    margin:-20px 0px 0px 160px;
+
+}
+.FOOTER .FOOTER-text1 a{
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgb(131, 131, 131);
+}
+.FOOTER-text1 a:hover{
+    text-decoration: underline;
+}
+.FOOTER-text{
+    margin:-20px 0px 0px 300px;
+
+}
+.FOOTER .FOOTER-text h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: rgb(131, 131, 131);
+}
+
+.FOOTER-list{
+    margin: 20px 0px 10px 120px;
+}
+.FOOTER .FOOTER-list h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+.ShopAndLearn a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ShopAndLearn a:hover{
+    text-decoration: underline;
+}
+.AppleWallet{
+    margin: 25px 0px 0px 0px;
+
+}
+.AppleWallet a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleWallet a:hover{
+    text-decoration: underline;
+}
+.Account{
+    margin: -440px 0px 0px 200px;
+}
+.Account a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.Account a:hover{
+    text-decoration: underline;
+}
+
+.Entertainment{
+    margin: 25px 0px 0px 200px;
+}
+
+.Entertainment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.Entertainment a:hover{
+    text-decoration: underline;
+}
+
+.AppleStore{
+    margin: -365px 0px 0px 400px;
+}
+.AppleStore a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleStore a:hover{
+    text-decoration: underline;
+}
+
+.ForBusiness{
+    margin: -298px 0px 0px 585px;
+}
+.ForBusiness a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForBusiness a:hover{
+    text-decoration: underline;
+}
+
+.ForEducation{
+    margin: 20px 0px 0px 585px;
+}
+.ForEducation a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForEducation a:hover{
+    text-decoration: underline;
+}
+
+.ForHealthcare{
+    margin: 20px 0px 0px  585px;
+}
+.ForHealthcare a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForHealthcare a:hover{
+    text-decoration: underline;
+}
+
+.ForGovernment{
+    margin: 20px 0px 0px  585px;
+}
+.ForGovernment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForGovernment a:hover{
+    text-decoration: underline;
+}
+.AppleValues{
+    margin: -385px 0px 0px 770px;
+}
+.AppleValues a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleValues a:hover{
+    text-decoration: underline;
+}
+.AboutApple{
+    margin: 20px 0px 0px 770px;
+}
+.AboutApple a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AboutApple a:hover{
+    text-decoration: underline;
+}
+.FOOTER-Last{
+    width: 1050px;
+    margin: -110px 0px 50px 150px;
+}
+
+.FOOTER-Last p{
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(114, 114, 114, 0.799);
+}
+
+.FOOTER-Last a{
+    color: rgba(0, 0, 255, 0.646);
+}
+
+.FOOTER-Last hr{
+    width: 950px;
+    margin: 20px 0px 0px -1px;
+}
+.FOOTER-COPYWRITING{
+    width: 950px;
+    margin: -50px 0px 0px 150px;
+
+}
+
+.FOOTER-COPYWRITING p{
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(114, 114, 114, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a1{
+    display: inline-block;
+    padding: 0px 0px 0px 25px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a2{
+    display: inline-block;
+    padding: 0px 0px 0px 14px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING a{
+    display: inline-block;
+    padding: 0px 0px 0px 10px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a3{
+    display: inline-block;
+    padding: 0px 168px 0px 10px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING1{
+    margin: -35px 0px 30px 480px;
+    width: 500px;
+   
+}
+.FOOTER-COPYWRITING1 .hr1{
+    width: 0px;
+    height: 9px;
+    margin: 12px 0px 0px 53px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr2{
+    width: 0px;
+    height: 8px;
+    margin: 12px 0px 0px 83px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr3{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 112px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr4{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 40px;
+    display: inline-block;
+}
+

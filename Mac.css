@@ -1,0 +1,2194 @@
+body{
+    background: rgba(255, 255, 255, 0.183);
+    cursor: pointer;
+    
+}
+
+  
+
+
+.HEADER-STUFF{
+    background: rgba(240, 238, 238, 0.304);
+    margin: -20px 0px 0px -9px;
+    width: 1216px;
+}
+
+.header{
+    margin: 20px 0px 0px 155px;
+}
+.header img{
+    width: 15px;
+    /*
+    margin-left: 140px;
+    margin-right: 5px;
+    margin-top: 7px;
+    */
+    margin: 8px 0px 0px 0px;
+}
+.header a{
+    font-size: 12px;
+    text-decoration: none;
+    margin-right: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+.header .fa-magnifying-glass{
+margin-left: 15px;
+}
+.header .fa-bag-shopping{
+    margin-left: 20px;
+}
+
+    /*
+    .div
+    * =  sign for how much element in the this div
+    11 =   number of element in the div
+        1. contains 
+            a. h2 
+            b. Elements contains
+                A and B
+
+                    A.  img =    .Specialist
+                    A.  h4  =     .Need
+                    A.  a   =      .Ask - .Ask:hover
+                            
+                ___________________________
+
+                    B.  img =  .Location  
+                    B.  h4  =  .Visit
+                    B.   a  =  .Near - .Near:hover
+
+*/ 
+
+.Categories{
+    margin: 25px 0px 0px 30px;
+}
+.Categories a{
+    padding: 0px 0px 0px 40px;
+}
+.Categories .Macmini{
+    width: 50px;
+}
+
+.Categories .MacStudio{
+    width: 50px;
+
+}
+.Categories .MacPro{
+    width: 45px;
+
+}
+
+.Categories .OS{
+    width: 45px;
+
+}
+.Categories-Name{
+    margin: -1px 0px 0px 37px;
+
+}
+.Categories-Name .MacBook-Air{
+    padding: 0px 9px 0px 40px;
+
+}
+.Categories-Name .MacBook-Pro{
+    padding: 0px 9px 0px 40px;
+
+}
+.Categories-Name .iMac{
+    padding: 0px 31px 0px 40px;
+
+}
+.Categories-Name .mini{
+    padding: 0px 10px 0px 15px;
+
+}
+.Categories-Name .Studio{
+    padding: 0px 10px 0px 30px;
+
+}
+.Categories-Name .Pro{
+    padding: 0px 0px 0px 17px;
+
+}
+.Categories-Name .Compare{
+    padding: 0px 10px 0px 35px;
+
+}
+.Categories-Name .Display{
+    padding: 0px 5px 0px 40px;
+
+}
+.Categories-Name .Acessories{
+    padding: 0px 4px 0px 35px;
+
+}
+.Categories-Name .Sequoia{
+    padding: 0px 20px 0px 20px;
+
+}
+.Categories-Name a{
+padding: 0px 0px 0px 40px;
+font-size: 12px;
+text-decoration: none;
+color: black;
+font-family: "Plus Jakarta Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+color: black;
+}
+.Categories-highlight{
+    margin: -25px 0px 0px 100px;
+    
+
+}
+
+
+.Categories-highlight .New{
+padding: 0px 850px 0px 0px;
+}
+.Categories-highlight h6{
+    font-size: 10px;
+display: inline-block;
+font-family: "Plus Jakarta Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 600;
+font-style: normal;
+color: rgb(142, 56, 2);
+}
+
+.Footer-Header{
+    height: 35px;
+    margin: 10px 0px 0px 0px;
+    background: rgba(205, 205, 205, 0.432);
+
+}
+.TakeAction{
+    margin:0px 0px 0px 0px;
+}
+.TakeAction h5{
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 0px 510px;
+    font-size: 12px;
+    display: inline-block;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+}
+.TakeAction a{
+    color: rgba(0, 0, 255, 0.619);
+    text-decoration: none;
+}
+
+.Arrow{
+    margin: -25px 0px 20px 0px;
+}
+.Arrow .Arrow-right{
+    width: 10px;
+    margin: 0px 0px -10px 740px;
+
+}
+.YouCanDreamIt{
+    margin: 0px 0px 0px -8px;
+  background:transparent;
+  width: 1216px;
+}
+
+.title h3{
+    margin: 65px 0px 0px 70px;
+   font-size: 80px;
+    display: inline-block;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+}
+.Describation{
+    margin: -30px 0px 0px 0px;
+}
+.Describation h4{
+    margin: -250px 0px 0px 950px;
+    font-size: 25px;
+    display: inline-block;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+
+}
+
+.Mac-Video video{
+    margin: 100px 0px 0px 0px;
+    width: 1216px;
+ 
+}
+
+.List{
+    margin: 0px 0px 0px 50px;
+}
+.GetToKnow{
+    margin: 80px 0px 80px 50px;    
+}
+.GetToKnow h3{
+    font-size: 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    margin: 15px 0px 30px 50px;
+}
+.Advantage{
+    margin: 15px 0px 30px 50px;
+    overflow-x: hidden;
+    width: 1116px;
+}
+.Advantage:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;  
+}
+.HELLO{
+    background: white;
+    width: 360px;
+    height: 670px;
+    border-radius: 25px;
+    margin: 25px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/helloblackiPhone.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Advantage .HELLO .M3{
+    font-size: 15px;
+    color: #8d8d8da7;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage .HELLO .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #cdcdcde2;
+}
+.Advantage .HELLO .fa-plus{
+color: white;
+margin: 525px 0px 0px 320px;
+background: rgb(92, 92, 92);
+padding: 6px;
+border-radius: 50px;
+}
+
+.Perfomance{
+    background: white;
+    width: 360px;
+    height: 670px;
+    border-radius: 25px;
+    margin: -695px 0px 25px 380px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/MacBook-Women.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Advantage .Perfomance .M3{
+    font-size: 15px;
+    color: #ebebeb;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage .Perfomance .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #cdcdcd;
+}
+.Advantage .Perfomance .fa-plus{
+color: white;
+margin: 525px 0px 0px 320px;
+background: rgb(92, 92, 92);
+padding: 6px;
+border-radius: 50px;
+}
+
+.DreamTeam{
+    background: white;
+    width: 360px;
+    height: 670px;
+    border-radius: 25px;
+    margin: -695px 0px 25px 760px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Education.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Advantage .DreamTeam .M3{
+    font-size: 15px;
+    color: #000000;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage .DreamTeam .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #000000e2;
+}
+.Advantage .DreamTeam .fa-plus{
+color: white;
+margin: 525px 0px 0px 320px;
+background: rgb(92, 92, 92);
+padding: 6px;
+border-radius: 50px;
+}
+
+.Compatibility{
+    background: white;
+    width: 360px;
+    height: 670px;
+    border-radius: 25px;
+    margin: -695px 0px 25px 1140px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Mobile\ App\ icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Advantage .Compatibility .M3{
+    font-size: 15px;
+    color: #000000;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage .Compatibility .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #000000e2;
+}
+.Advantage .Compatibility .fa-plus{
+color: white;
+margin: 492px 0px 0px 320px;
+background: rgb(92, 92, 92);
+padding: 6px;
+border-radius: 50px;
+}
+
+.PrivacyAndSecurity{
+    background: white;
+    width: 360px;
+    height: 670px;
+    border-radius: 25px;
+    margin: -695px 0px 25px 1520px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Security.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Advantage .PrivacyAndSecurity .M3{
+    font-size: 15px;
+    color: #ffffff;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage .PrivacyAndSecurity .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #ffffff;
+}
+.Advantage .PrivacyAndSecurity .fa-plus{
+color: white;
+margin: 492px 0px 0px 320px;
+background: rgb(92, 92, 92);
+padding: 6px;
+border-radius: 50px;
+}
+.Durability{
+    background: white;
+    width: 360px;
+    height: 670px;
+    border-radius: 25px;
+    margin: -695px 0px 25px 1900px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/MacBook\ Side.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+.Advantage .Durability .M3{
+    font-size: 15px;
+    color: #000000;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage .Durability .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #000000;
+}
+.Advantage .Durability .fa-plus{
+color: white;
+margin: 492px 0px 0px 320px;
+background: rgb(92, 92, 92);
+padding: 6px;
+border-radius: 50px;
+}
+
+.AppleValues{
+    background: white;
+    width: 360px;
+    height: 670px;
+    border-radius: 25px;
+    margin: -695px 60px 25px 2280px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Values.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+.Advantage .AppleValues .M3{
+    font-size: 15px;
+    color: #000000;
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage .AppleValues .Pro{
+    font-size: 25px;
+margin: 2px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: #000000;
+}
+.Advantage .AppleValues .fa-plus{
+color: white;
+margin: 492px 0px 0px 320px;
+background: rgb(92, 92, 92);
+padding: 6px;
+border-radius: 50px;
+}
+
+.HelpMeChoose{
+    margin: 250px 0px 150px 100px;
+}
+.HelpMeChoose h2{
+    font-size: 50px;
+    display: inline-block;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    margin: 0px 0px 50px 0px;
+
+}
+.HelpMeChoose-cover{
+    background: rgba(153, 153, 153, 0.164);
+    width: 980px;
+    height: 400px;
+    border-radius: 25px;
+    margin: 0px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    background-image: url(img/Product-1-.png);
+    background-repeat: no-repeat;
+    background-position-x: 290px;
+    background-position-y:-50px ;
+    background-size: cover;
+}
+
+.HelpMeChoose p{
+    font-size: 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+    padding: 150px 0px 0px 100px;
+}
+
+
+.HelpMeChoose button{
+    background: #007bff;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    border: none;
+    border-radius: 30px;
+    margin: 0px 0px 0px 220px;
+}
+
+
+.Compare-Categories{
+    margin: 0px 0px 40px -8px;
+    background: #9292922c;
+    width: 1216px;
+}
+
+.Compare-Categories .Title h3{
+    font-size: 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    padding: 150px 0px 0px 100px;
+}
+.Link-Title1{
+    margin: -30px 0px 0px 150px;
+}
+.Link-Title{
+    margin: -80px 0px 100px 800px;
+}
+
+.Compare-Categories .Link-Title1 a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(42, 42, 185);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    
+}
+.Compare-Categories .Link-Title1 a:hover{
+    text-decoration: underline;
+}
+.Compare-Categories .Arrow1{
+    margin: -27px 0px 20px 0px;
+}
+.Compare-Categories .Arrow1 .Arrow-right{
+    width: 10px;
+    margin: 0px 0px -10px 180px;
+
+}
+.Compare-Categories .Link-Title a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(42, 42, 185);
+    padding: 30px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    
+}
+.Compare-Categories .Arrow{
+    margin: -27px 0px 20px 0px;
+}
+.Compare-Categories .Arrow .Arrow-right{
+    width: 10px;
+    margin: 0px 0px -10px 150px;
+
+}
+.Compare-Categories .Link-Title a:hover{
+    text-decoration: underline;
+}
+
+
+.Button-Categories{
+    margin: 55px 0px 0px 100px;
+    background: white;
+    width:365px;
+    border-radius: 30px;
+    
+}
+
+.Button-Categories button{
+    background: white;
+    color: black;
+    font-size: 15px;
+    padding: 15px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    border: none;
+    border-radius: 30px;
+}
+.Button-Categories button:hover{
+    background: black;
+    color: white;
+}
+
+.MacBookAir13{
+    background: transparent;
+    margin: 75px 0px 0px 100px;
+    width: 350px;
+    height: 550px;
+}
+
+.MacBookAir13 .img-MacBookAir13{
+    width:350px;
+}
+
+
+.MacBookAir13 .buttonFirst{
+    margin: 25px 0px 0px 140px;
+
+}
+.MacBookAir13 button{
+   padding: 7px 7px;
+    border-radius: 30px;
+    border: none;
+    margin: 45px 0px 0px 3px;
+    border: 1px rgba(0, 0, 0, 0.192) solid;
+}
+
+.MacBookAir13 h5{
+    color: #ad2929;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 20px 0px 0px 130px;
+}
+
+.MacBookAir13 h2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 27px;
+    margin: 10px 0px 0px 25px;
+}
+
+.MacBookAir13 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin: 10px 0px 0px 125px;
+
+}
+
+.MacBookAir13 .p1{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 20px 0px 0px 60px;
+    font-size: 16px;
+}
+
+.MacBookAir13 .p2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    margin: 20px 0px 0px 45px;
+    font-size: 17px;
+}
+
+.MacBookAir13 .p2 a{
+  color: black;
+}
+.MacBookAir13 .p2 a:hover{
+    color: blue;
+}
+
+.MacBookAir13 .Learn{
+    background: #007bff;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    border: none;
+    border-radius: 30px;
+    margin: 40px 0px 0px 80px;
+
+}
+
+.MacBookAir13 .a1{
+    text-decoration: none;
+    margin: 0px 0px 0px 50px;
+    color: blue;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.MacBookAir13 .a1:hover{
+    text-decoration: underline;
+}
+.Arrow3{
+    margin: -28px 0px 0px 285px;
+}
+.MacBookAir13 .Arrow3 .Arrow-right{
+    width: 10px;
+
+}
+.MacBook-Proo{
+    background: transparent;
+    margin: -535px 0px 0px 400px;
+    width: 360px;
+    height: 550px;
+}
+.MacBook-Proo .img-MacBook-Proo{
+    width:350px;
+    margin: 0px 0px 0px 0px;
+}
+.MacBook-Proo .buttonFirst{
+    margin: 25px 0px 40px 145px;
+
+}
+.MacBook-Proo button{
+   padding: 7px 7px;
+    border-radius: 30px;
+    border: none;
+    margin: 45px 0px 0px 3px;
+    border: 1px rgba(0, 0, 0, 0.192) solid;
+}
+
+
+.MacBook-Proo h2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 27px;
+    margin: 10px 0px 0px 25px;
+}
+
+.MacBook-Proo h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin: 10px 0px 0px 80px;
+
+}
+
+.MacBook-Proo .p1{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 20px 0px 0px 60px;
+    font-size: 16px;
+}
+
+.MacBook-Proo .p3{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    margin: 20px 0px 0px 40px;
+    font-size: 17px;
+}
+
+.MacBook-Proo .p2 a{
+  color: black;
+}
+.MacBook-Proo .p2 a:hover{
+    color: blue;
+}
+
+.MacBook-Proo3 .Learn{
+    background: #007bff;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    border: none;
+    border-radius: 30px;
+    margin: 40px 0px 0px 80px;
+
+}
+
+.MacBook-Proo .a1{
+    text-decoration: none;
+    margin: 0px 0px 0px 50px;
+    color: blue;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.MacBook-Proo.a1:hover{
+    text-decoration: underline;
+}
+.Arrow4{
+    margin: -28px 0px 0px 285px;
+}
+.MacBook-Proo .Arrow4 .Arrow-right{
+    width: 10px;
+
+}
+.HR .hr{
+    width: 750px;
+    margin: 0px 0px 0px 120px;
+}
+
+.Features-MacBook-Air13{
+    background: transparent;
+    margin: 75px 0px 0px 100px;
+    width: 350px;
+    height: 550px;
+}
+
+.Features-MacBook-Air13 h2{
+    margin: -15px 0px 0px 100px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 27px;
+}
+
+.Features-MacBook-Air13 .p1{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 8px 0px 0px 60px;
+    font-size: 12px;
+}
+
+.Features-MacBook-Air13 .img-Features-MacBook-Air13{
+    width: 75px;
+    margin: 50px 0px 0px 155px;
+}
+.Features-MacBook-Air13 .p2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px 0px 0px 140px;
+    font-size: 12px;
+}
+.Features-MacBook-Air13 h6{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 40px 0px 0px 180px;
+    font-size: 12px;
+}
+.Features-MacBook-Air13 .h18{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 10px 0px 0px 140px;
+    font-size: 30px;
+}
+.Features-MacBook-Air13 .battery{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px 0px 0px 170px;
+    font-size: 12px;
+}
+.Features-MacBook-Air13 .battery sup{
+    margin: 1px 100px 0px 0px;
+}
+.Features-MacBook-Air13 .h19{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 60px 0px 0px 140px;
+    font-size: 30px;
+}
+.Features-MacBook-Air13 .Thunderbolt{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin: 10px 0px 0px 125px;
+    font-size: 12px;
+}
+.Features-MacBook-Air13 .h20{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 60px 0px 0px 120px;
+    font-size: 25px;
+}
+.Features-MacBook-Air13 .Weight{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin: 10px 0px 0px 180px;
+    font-size: 12px;
+}
+
+.Features-MacBook-Proo{
+    background: transparent;
+    margin: -550px 0px 0px 500px;
+    width: 350px;
+    height: 550px;
+}
+
+.Features-MacBook-Proo h2{
+    margin: -15px 0px 0px 100px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 27px;
+}
+
+.Features-MacBook-Proo .p1{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 8px 0px 0px 80px;
+    font-size: 12px;
+}
+
+.Features-MacBook-Proo .img-Features-MacBook-Proo{
+    width: 115px;
+    margin: 40px 0px 0px 140px;
+}
+.Features-MacBook-Proo .p2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px 0px 0px 110px;
+    font-size: 12px;
+}
+.Features-MacBook-Proo h6{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 40px 0px 0px 180px;
+    font-size: 12px;
+}
+.Features-MacBook-Proo .h18{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 10px 0px 0px 140px;
+    font-size: 30px;
+}
+.Features-MacBook-Proo .battery{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px 0px 0px 170px;
+    font-size: 12px;
+}
+.Features-MacBook-Proo .battery sup{
+    margin: 1px 100px 0px 0px;
+}
+.Features-MacBook-Proo .h19{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 60px 0px 0px 140px;
+    font-size: 30px;
+}
+.Features-MacBook-Proo .Thunderbolt{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin: 12px 0px -25px 115px;
+    font-size: 12px;
+}
+.Features-MacBook-Proo .h20{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 60px 0px 0px 120px;
+    font-size: 25px;
+}
+.Features-MacBook-Proo .Weight{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin: 10px 0px 0px 180px;
+    font-size: 12px;
+}
+
+.BestPlace{
+    margin: 0px 0px 0px 0px;
+}
+.BestPlace .Title-1 h3{
+    font-size: 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    padding: 150px 0px 0px 100px;
+}
+.Link-Title-1{
+    margin: -80px 0px 0px 1065px;
+
+}
+
+
+.BestPlace .Link-Title-1 a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(42, 42, 185);
+    margin: 0px 0px 0px 0px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+ .Link-Title-1 a:hover{
+    text-decoration: underline;
+   
+}
+.BestPlace .Arrow-1{
+    margin: -28px 0px 0px 960px;
+}
+
+.BestPlace .Arrow-1 .Arrow-right-1{
+    width: 10px;
+    margin: 0px 0px -10px 180px;
+
+}
+
+
+
+.Advantage-1{
+    margin: 140px 0px 150px 95px;
+    overflow-x: hidden;
+    ;
+}
+.Advantage-1:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;  
+}
+.Advantage-1 .List-1{
+    margin: 0px 0px 0px 0px;
+}
+
+.PayOverTime{
+    background: white;
+    width: 340px;
+    height: 250px;
+    border-radius: 25px;
+    margin: 25px 0px 25px 0px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.PayOverTime .img-PayOverTime{
+    width: 50px;
+    margin: 20px 0px 0px 30px;
+}
+.Advantage-1 .PayOverTime .M3{
+    font-size: 25px;
+    color: #000000;
+margin:5px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .PayOverTime .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: black;
+}
+.Advantage-1 .PayOverTime .fa-plus{
+color: white;
+margin:-5px 0px 0px 290px;
+background: rgb(92, 92, 92);
+padding: 10px;
+border-radius: 50px;
+}
+
+.Trade-In{
+    background: white;
+    width: 340px;
+    height: 250px;
+    border-radius: 25px;
+    margin: -275px 0px 25px 360px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Trade-In .img-Trade-In{
+    width: 50px;
+    margin: 20px 0px 0px 30px;
+}
+.Advantage-1 .Trade-In .M3{
+    font-size: 25px;
+    color: #000000;
+margin:5px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Trade-In .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: black;
+}
+.Advantage-1 .Trade-In .fa-plus{
+color: white;
+margin:-5px 0px 0px 290px;
+background: rgb(92, 92, 92);
+padding: 10px;
+border-radius: 50px;
+}
+
+.Customize{
+    background: white;
+    width: 340px;
+    height: 250px;
+    border-radius: 25px;
+    margin: -275px 0px 25px 720px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Customize .img-Customize{
+    width: 50px;
+    margin: 20px 0px 0px 30px;
+}
+.Advantage-1 .Customize .M3{
+    font-size: 25px;
+    color: #000000;
+margin:5px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Customize .Pro{
+    font-size: 15px;
+margin: 10px 0px 50px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: black;
+}
+.Advantage-1 .Customize .Customize-button .fa-plus{
+    color: white;
+    margin:-5px 0px 0px 290px;
+    background: rgb(92, 92, 92);
+    padding: 10px;
+    border-radius: 50px;
+    }
+
+.Flexible{
+    background: white;
+    width: 340px;
+    height: 250px;
+    border-radius: 25px;
+    margin: -275px 0px 25px 1080px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Flexible .img-Flexible{
+    width: 50px;
+    margin: 20px 0px 0px 30px;
+}
+.Advantage-1 .Flexible .M3{
+    font-size: 25px;
+    color: #000000;
+margin:5px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Flexible .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: black;
+}
+.Advantage-1 .Flexible .Flexible-button .fa-plus{
+    color: white;
+    margin:-5px 0px 0px 290px;
+    background: rgb(92, 92, 92);
+    padding: 10px;
+    border-radius: 50px;
+}
+
+
+.Shop{
+    background: white;
+    width: 340px;
+    height: 250px;
+    border-radius: 25px;
+    margin: -275px 0px 25px 1440px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Shop .img-Shop{
+    width: 50px;
+    margin: 20px 0px 0px 30px;
+}
+.Advantage-1 .Shop .M3{
+    font-size: 25px;
+    color: #000000;
+margin:5px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Shop .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: black;
+}
+.Advantage-1 .Shop .Shop-button  .fa-plus{
+    color: white;
+    margin:15px 0px 0px 290px;
+    background: rgb(92, 92, 92);
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.Significant{
+    margin: 100px 0px 0px -10px;
+    width: 1218px;
+    height: 1000px;
+    background: white;
+
+}
+.Significant .Title-2 h4{
+         font-size: 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    padding: 110px 0px 0px 100px;
+    margin: 0px 0px 30px 0px;
+}
+
+.Significant .Mac-Phone{
+margin:  45px 0px 0px 100px;
+background: #d7d7d774;
+width: 1050px;
+height: 550px;
+border-radius: 30px;
+background-image: url(img/macbook_1.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position-x: 460px ;
+background-position-y: -10px ;
+
+}
+
+.Title-1 .Mac-title{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    padding:   150px 0px 0px 100px;
+    margin: 0px 0px -120px 0px;
+}
+
+.Mac-Phone .p-Title-1{
+    padding: 110px 0px 0px 100px;
+    margin: 25px 0px -183px 0px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.Mac-Phone .Arrow-2 .img-Arrow2{
+    width: 30px;
+    margin: 0px 0px 0px  220px;
+    padding: 0px 0px 0px 150px;
+    
+}
+.hr-1{
+    width: 295px;
+    margin: 180px 0px 0px 100px;
+}
+
+.Title-3 .Mac-title-1{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    padding:   10px 0px 0px 100px;
+    margin: 0px 0px -30px 0px;
+}
+
+
+
+.Mac-Phone .Arrow-3 .img-Arrow3{
+    width: 30px;
+    margin: 0px 0px 0px  220px;
+    padding: 0px 0px 0px 150px;
+    
+}
+.hr-2{
+    width: 295px;
+    margin:10px 0px 0px 100px;
+}
+.Title-4 .Mac-title-2{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    padding:   10px 0px 0px 100px;
+    margin: 0px 0px -30px 0px;
+}
+
+
+
+.Mac-Phone .Arrow-4 .img-Arrow4{
+    width: 30px;
+    margin: 0px 0px 0px 220px;
+    padding: 0px 0px 0px 150px;
+    
+}
+.hr-3{
+    width: 295px;
+    margin:10px 0px 0px 100px;
+}
+.List-2{
+    margin: 0px 0px 25px 110px;
+}
+
+.MacEssentials h4{
+    font-size: 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(14, 14, 14);
+    padding: 15px 0px 0px 100px;
+    margin: 0px 0px 15px 0px;
+}
+ .List-3{
+    margin: -35px 0px 0px 110px;
+}
+
+.MacEssentials .Link-Title-1 a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(42, 42, 185);
+    margin: 0px 0px 0px -70px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.MacEssentials .Link-Title-1 a:hover{
+    text-decoration: underline;
+   
+}
+
+.MacEssentials .Arrow-5{
+    margin: -28px 0px 0px 960px;
+}
+
+.MacEssentials .Arrow-5 .Arrow-right-1{
+    width: 10px;
+    margin: 0px 0px -10px 180px;
+
+}
+
+.MacAccessories{
+    width: 520px;
+    height: 520px;
+    background: rgba(164, 164, 164, 0.091);
+    margin: 100px 0px 0px 110px;
+    border-radius: 30px;
+    background-image: url(img/flex_accessories-5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y:180px ;
+
+}
+.MacAccessories .M3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0px 0px 0px 160px;
+    padding: 50px 0px 0px 0px;
+
+}
+.MacAccessories .Pro{
+    font-size: 17px;
+    margin: 10px 0px 10px 90px;
+    padding: 5px 0px 0px 0px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: black;
+}
+.MacAccessories .Link-Title-2 a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(42, 42, 185);
+    margin: 0px 0px 0px 190px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.MacAccessories .Link-Title-2 a:hover{
+    text-decoration: underline;
+   
+}
+
+.MacAccessories .Arrow-6{
+    margin: -18px 0px 0px 355px;
+}
+
+.MacAccessories .Arrow-6 .Arrow-right-1{
+    width: 10px;
+    margin: 0px 0px 0px 0px;
+
+}
+
+
+.StudioDisplay{
+    width: 520px;
+    height: 520px;
+    background: rgba(164, 164, 164, 0.091);
+    margin: -520px 0px 0px 650px;
+    border-radius: 30px;
+    background-image: url(img/studio-Display-mac.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y:70px ;
+
+}
+.StudioDisplay .M3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0px 0px 0px 160px;
+    padding: 50px 0px 0px 0px;
+
+}
+.StudioDisplay .Pro{
+    font-size: 17px;
+    margin: 10px 0px 10px 30px;
+    padding: 5px 0px 0px 0px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: black;
+}
+.StudioDisplay .Link-Title-2 a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(42, 42, 185);
+    margin: 0px 0px 0px 210px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.StudioDisplay .Link-Title-2 a:hover{
+    text-decoration: underline;
+   
+}
+
+.StudioDisplay .Arrow-6{
+    margin: -18px 0px 0px 295px;
+}
+
+.StudioDisplay .Arrow-6 .Arrow-right-1{
+    width: 10px;
+    margin: 0px 0px 0px 0px;
+
+}
+.Last-Part{
+    margin: 180px 0px 250px -8px;
+    background: rgba(146, 146, 146, 0.171);
+    width: 1216px;
+    height: 850px;
+}
+
+.Mac .Mac-Title{
+    font-size: 50px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 50px 0px 0px 140px;
+    padding: 50px 0px 0px 0px;
+    display: inline-block;
+}
+
+.Mac .Explore-Title{
+    font-size: 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 50px 0px 0px 140px;
+    padding: 30px 0px 0px 0px;
+    color: rgb(161, 161, 161);
+}
+
+.Mac .Explore .First-list{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 25px 0px 0px 140px;
+    padding: 5px 0px 0px 0px;
+    color: rgb(1, 1, 1);
+    display: inline-block;
+}
+.Mac .Explore h3{
+    font-size: 25px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0px 0px 0px 140px;
+    padding: 10px 0px 0px 0px;
+    color: rgb(1, 1, 1);
+    display: inline-block;
+}
+.Mac .Explore-Title-1{
+    font-size: 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 30px 0px 0px 140px;
+    padding: 5px 0px 0px 0px;
+    color: black;
+}
+.Mac .Explore-Title-2{
+    font-size: 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 10px 0px 0px 140px;
+    padding: 5px 0px 0px 0px;
+    color: black;
+}
+
+----
+.Shop-Mac{
+    margin: 0px 0px 0px 550px;
+  
+    
+}
+
+.Last-Part .Shop-Mac .Shop-Mac-Title-5{
+    font-size: 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: -480px 0px 0px 400px;
+    padding: 30px 0px 0px 0px;
+    color: rgb(161, 161, 161);
+}
+.Last-Part .Shop-Mac .Shop-Mac-list-6{
+    font-size: 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 25px 0px 0px 400px;
+    padding: 5px 0px 0px 0px;
+    color: rgb(1, 1, 1);
+    display: inline-block;
+}
+.Last-Part .Shop-Mac h3{
+    font-size: 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0px 0px 0px 400px;
+    padding: 10px 0px 0px 0px;
+    color: rgb(1, 1, 1);
+    display: inline-block;
+}
+
+
+---
+.More{
+    margin: -1000px 0px 0px 0px;
+    background: black;
+}
+.Last-Part .MoreFromMac{
+    font-size: 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 50px 0px 0px 140px;
+    padding: 30px 0px 0px 0px;
+    color: rgb(161, 161, 161);
+}
+
+.Last-Part .MoreFromMac .MoreFromMac-Title-2{
+    font-size: 10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin:-260px 0px 0px 450px;
+    padding: 30px 0px 0px 0px;
+    color: rgb(161, 161, 161);
+}
+.Last-Part .MoreFromMac .MoreFromMac-list-2{
+    font-size: 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 25px 0px 0px 450px;
+    padding: 5px 0px 0px 0px;
+    color: rgb(1, 1, 1);
+    display: inline-block;
+}
+.Last-Part .MoreFromMac h3{
+    font-size: 15px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0px 0px 0px 450px;
+    padding: 10px 0px 0px 0px;
+    color: rgb(1, 1, 1);
+    display: inline-block;
+}
+
+.Notes{
+    margin: -210px 0px 80px 120px;    
+    width: 990px;
+}
+
+.Notes p{
+    margin: 25px 0px -50px 80px;  
+    font-size: 12px;
+    margin: 8px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgba(96, 96, 96, 0.813);
+
+}
+
+.Notes p a{
+    color: black;
+}
+.Notes hr{
+    width: 950px;
+    margin: 15px 0px -65px 30px;
+}
+
+.FOOTER{
+    width: 1050px;
+    margin: 5px 0px 150px 30px;
+}
+.FOOTER .FOOTER-LOGO .AppleLogo{
+    width: 15px;
+    margin: 0px 0px 10px 120px;
+    display: inline-block;
+
+}
+.FOOTER-Arrow{
+    margin:-28px 0px 0px 140px;
+}
+.FOOTER-Arrow1{
+    margin: -37px 0px 0px 280px;
+}
+.FOOTER .FOOTER-Arrow .fa-chevron-right{
+    margin: 0px 0px 0px 0px;
+
+}
+.FOOTER .FOOTER-Arrow1 .fa-angle-right{
+    margin: 20px 0px 0px 0px;
+
+}
+.FOOTER-text1 {
+    margin:-20px 0px 0px 160px;
+
+}
+.FOOTER .FOOTER-text1 a{
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgb(131, 131, 131);
+}
+.FOOTER-text1 a:hover{
+    text-decoration: underline;
+}
+.FOOTER-text{
+    margin:-20px 0px 0px 300px;
+
+}
+.FOOTER .FOOTER-text h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: rgb(131, 131, 131);
+}
+
+.FOOTER-list{
+    margin: 20px 0px 10px 120px;
+}
+.FOOTER .FOOTER-list h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+}
+
+.ShopAndLearn a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ShopAndLearn a:hover{
+    text-decoration: underline;
+}
+.AppleWallet{
+    margin: 25px 0px 0px 0px;
+
+}
+.AppleWallet a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleWallet a:hover{
+    text-decoration: underline;
+}
+.Account{
+    margin: -440px 0px 0px 200px;
+}
+.Account a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.Account a:hover{
+    text-decoration: underline;
+}
+
+.Entertainment{
+    margin: 25px 0px 0px 200px;
+}
+
+.Entertainment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.Entertainment a:hover{
+    text-decoration: underline;
+}
+
+.AppleStore{
+    margin: -365px 0px 0px 400px;
+}
+.AppleStore a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleStore a:hover{
+    text-decoration: underline;
+}
+
+.ForBusiness{
+    margin: -298px 0px 0px 585px;
+}
+.ForBusiness a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForBusiness a:hover{
+    text-decoration: underline;
+}
+
+.ForEducation{
+    margin: 20px 0px 0px 585px;
+}
+.ForEducation a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForEducation a:hover{
+    text-decoration: underline;
+}
+
+.ForHealthcare{
+    margin: 20px 0px 0px  585px;
+}
+.ForHealthcare a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForHealthcare a:hover{
+    text-decoration: underline;
+}
+
+.ForGovernment{
+    margin: 20px 0px 0px  585px;
+}
+.ForGovernment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.ForGovernment a:hover{
+    text-decoration: underline;
+}
+.AppleValues1{
+    margin: -385px 0px 0px 770px;
+}
+.AppleValues1 a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AppleValues1 a:hover{
+    text-decoration: underline;
+}
+.AboutApple{
+    margin: 20px 0px 0px 770px;
+}
+.AboutApple a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: black;
+}
+.AboutApple a:hover{
+    text-decoration: underline;
+}
+.FOOTER-Last{
+    width: 1050px;
+    margin: -110px 0px 50px 150px;
+}
+
+.FOOTER-Last p{
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(114, 114, 114, 0.799);
+}
+
+.FOOTER-Last a{
+    color: rgba(0, 0, 255, 0.646);
+}
+
+.FOOTER-Last hr{
+    width: 950px;
+    margin: 20px 0px 0px -1px;
+}
+.FOOTER-COPYWRITING{
+    width: 950px;
+    margin: -50px 0px 0px 150px;
+
+}
+
+.FOOTER-COPYWRITING p{
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(114, 114, 114, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a1{
+    display: inline-block;
+    padding: 0px 0px 0px 25px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a2{
+    display: inline-block;
+    padding: 0px 0px 0px 14px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING a{
+    display: inline-block;
+    padding: 0px 0px 0px 10px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a3{
+    display: inline-block;
+    padding: 0px 168px 0px 10px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(84, 84, 84, 0.799);
+        display: inline-block;
+}
+.FOOTER-COPYWRITING1{
+    margin: -35px 0px 30px 480px;
+    width: 500px;
+   
+}
+.FOOTER-COPYWRITING1 .hr1{
+    width: 0px;
+    height: 9px;
+    margin: 12px 0px 0px 53px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr2{
+    width: 0px;
+    height: 8px;
+    margin: 12px 0px 0px 83px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr3{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 112px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr4{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 40px;
+    display: inline-block;
+}
+

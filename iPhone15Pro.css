@@ -1,0 +1,2882 @@
+body{
+    background: #101010;
+}
+.header{
+    background: black;
+    padding: 5px 5px;
+    margin: -10px 0px 0px -20px;
+    width: 1218px;
+}
+.Apple-Logo{
+    margin: -2px 0px 0px 0px;
+}
+.header .Apple-Logo img{
+    width: 40px;
+    margin: 7px 15px 0px 140px;
+}
+.header-List{
+    margin: -25px 0px 10px 210px;
+}
+.header .header-List a{
+  
+    font-size: 12px;
+    text-decoration: none;
+    margin: -5px 25px 0px 0px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #8e8e8e;
+   
+}
+.header .fa-magnifying-glass{
+margin-left: 30px;
+color: #8e8e8e;
+
+}
+.header .fa-bag-shopping{
+    margin-left: 30px;
+    color: #8e8e8e;
+}
+.Deals{
+    width: 1218px;
+    height: 80px;
+    background: transparent;
+    margin: 0px 0px 0px -10px;
+}
+.Deals .Title-Deals h4{
+    margin: 15px 0px 0px 450px;
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Deals .Title-Deals a{
+    color: rgb(86, 89, 174);
+    text-decoration: none;
+}
+.Deals .Title-Deals a:hover{
+    text-decoration: underline;
+}
+
+.Intro-Product{
+    width: 1218px;
+    height: 600px;
+    background: black;
+    margin: -25px 0px 0px -10px;
+}
+.Title-Intro-Product{
+    margin: 0px 0px 0px 0px;
+    padding: 50px 0px 0px 500px;
+}
+.Intro-Product .Title-Intro-Product h4{
+    margin: 15px 0px 0px 0px;
+    color: #8e8e8e;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.Intro-Product .Video-Titnium video{
+    width: 1221px;
+    margin: -5px 0px -30px -5px;
+}
+
+.Intro-Product .Button-Intro-Product button{
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    background: rgb(6, 10, 231);
+    border: none;
+    border-radius: 50px;
+    padding: 15px 25px;
+    margin: -20px 0px 0px 600px;
+}
+sup{
+    font-size: 15px;
+}
+
+.Intro-Product .Price-Intro-Product h4{
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin: 25px 0px 0px 470px;
+
+}
+
+.Get-The-Highlights{
+    margin: 250px 0px 0px 50px;
+}
+
+.Get-The-Highlights .Title-Get-The-Highlgiht h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 50px;
+    color: #8e8e8e;
+
+}
+
+.Title-Watch-Film{
+    margin: -100px 0px 0px 750px;
+}
+
+.Get-The-Highlights .Title-Watch-Film a{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: rgba(68, 68, 133, 0.922);
+    text-decoration: none;
+}
+.Get-The-Highlights .Title-Watch-Film a:hover{
+    text-decoration: underline;
+}
+
+.icon-Watch-Film{
+    margin: -25px 0px 0px 150px;
+}
+.Get-The-Highlights .icon-Watch-Film .fa-play{
+    margin: 0px 0px 0px 750px;
+    color: rgba(50, 50, 244, 0.689);
+    border: 1px rgba(49, 49, 240, 0.724) solid;
+    padding: 6px 8px;
+    border-radius: 50px;
+}
+.Title-Watch-The-Event{
+    margin: -30px 0px 0px 950px;
+}
+
+.Get-The-Highlights  .Title-Watch-The-Event a{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: rgba(68, 68, 133, 0.922);
+    text-decoration: none;
+}
+.Get-The-Highlights .Title-Watch-The-Event a:hover{
+    text-decoration: underline;
+}
+.icon-Watch-The-Event{
+    margin: -20px 0px 0px 360px;
+}
+.Get-The-Highlights .icon-Watch-The-Event .fa-chevron-right{
+    margin: 0px 0px 0px 750px;
+    color: rgba(50, 50, 244, 0.689);
+    border-radius: 50px;
+}
+
+.highlights-Contain{
+
+    width: 1130px;
+    height: 800px;
+    margin: 0px 0px 0px 50px;
+    border-radius: 30px;
+   
+}
+
+
+
+.A17-Chip .img-A17-Chip video{
+    border-radius: 30px;
+    margin: 45px 0px 0px -5px;
+    width: 1135px;
+    display: inline-block;
+}
+
+
+
+.Button-Progress{
+    width: 160px;
+    height: 55px;
+    background-color: #5e5e5e;
+    border-radius: 50px;
+    margin: -100px 0px 0px 550px;
+}
+.Button-Progress .Button-1{
+    margin: 25px 0px 0px 20px;
+}
+.Button-Progress button{
+   padding: 4px 4px;
+   margin: 5px 0px 0px 10px;
+    border-radius: 50px;
+    border: none;
+    animation: example1 4s infinite;
+    transition-delay: 4s;
+
+
+
+}
+.Button-Progress .Button-Loading{
+    padding: 4px 25px;
+    animation: example 8s infinite;
+    transition-delay: 8s;
+}
+
+@keyframes example {
+    from { padding: 4px 10px;}
+    to {padding: 4px 25px;}
+    
+  }
+  
+.Button-return {
+margin: -50px 0px 0px 730px;
+
+}
+.Button-return .fa-rotate-right{
+    background:#8e8e8e;
+    border-radius: 50px;
+    padding: 15px 15px;
+    color: white;
+  
+    
+}
+.Take-Get-Closer-look{
+    width: 1218px;
+    height: 960px;
+    background: black;
+    margin: 100px 0px 0px -10px;
+}
+.Title-Take-Get-Closer-look{
+    margin: 50px 0px 0px 50px;
+    padding: 120px 0px 0px 0px;
+}
+.Title-Take-Get-Closer-look h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+    color:#8e8e8e;
+
+}
+
+.img-Take-Get-Closer-look{
+    margin: 20px 0px 0px 400px;
+}
+.img-Take-Get-Closer-look img{
+    width: 550px
+}
+.Title-button-Choosing{
+    margin: 60px 0px 0px 550px;
+}
+.Title-button-Choosing h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    color:#8e8e8e;
+    
+}
+
+.Button-iPhone{
+    background:#5b5b5b;
+    width: 230px;
+    height: 50px;
+    margin: 10px 0px 0px 520px;
+    border-radius: 50px;
+    
+}
+.Button-iPhone button{
+    margin: 15px 0px 35px 15px;
+    padding: 12px 12px;
+    border-radius: 50px;
+    border: none;
+}
+
+
+
+.Button-More-On-1{
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#51515143;
+    position: sticky;
+    top: 10px;
+    margin: 20px 0px 0px 435px;
+
+}
+
+.Button-More-On-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 40px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-1 img{
+    width: 15px;
+    margin: -15px 0px 0px 210px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
+
+.Explore-More{
+    margin: 50px 0px 0px 25px;
+    width: 1218px;
+    height: 1800px;
+    margin: -140px 0px 0px -10px;
+}
+.Title-Explore-More{
+    margin: 190px 0px 0px 40px;
+}
+.Explore-More .Title-Explore-More h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    padding: 0px 0px 0px 5px;
+    color:#8e8e8e;
+}
+
+.Qutes-Explore-More{
+    margin: 180px 0px 0px 100px;
+}
+.Explore-More .Qutes-Explore-More h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 70px;
+    padding: 15px 0px 0px 5px;
+    color:white; 
+}
+
+.Video-titanium{
+    margin: 10px 0px 0px 90px;
+}
+.Video-titanium video{
+    width: 1000px;
+}
+
+.Gallary-1{
+    background-image: url(img/lightest__boyb.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 700px;
+    height: 500px;
+    margin: 0px 0px 0px -25px;
+}
+
+
+
+.CONTAIN{
+    width: 520px;
+    height:500px;
+    background: black;
+    margin: -500px 0px 0px 570px;
+    background-image: url(img/durable.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Foged-1{
+    margin: 60px 0px 0px 120px;
+}
+.Foged-1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    padding: 15px 0px 0px 5px;
+    color:#8e8e8e; 
+}
+.Foged-1  span{
+    color: white;
+}
+
+.Foged-2 {
+    margin: -150px 0px 0px 700px;
+}
+.Foged-2  h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    padding: 15px 0px 0px 5px;
+    color:#8e8e8e; 
+}
+.Foged-2  span{
+    color: white;
+}
+.the-history-of-Apple-GPUs{
+    margin: 50px 0px 0px 25px;
+    width: 1218px;
+    height: 1700px;
+    margin: -120px 0px 0px -10px;
+    background: black;
+}
+
+.img-Chip{
+    margin: 0px 0px 0px 500px;
+}
+.the-history-of-Apple-GPUs .img-Chip img{
+    width: 150px;
+    padding: 200px 0px 0px 0px;
+}
+
+.the-history-of-Apple-GPUs .Title-Chip h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    padding: 10px 0px 0px 230px;
+    color:#ffffff; 
+}
+
+.Qutes-Chip{
+    margin: -50px 0px 0px 350px;
+}
+
+.the-history-of-Apple-GPUs .Qutes-Chip h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size:  20px;
+    padding: 0px 0px 0px 0cap;
+    color:#8e8e8e; 
+}
+
+.iPhone-Apple-GPU .img-Gpu img{
+    width: 950px;
+    margin: 45px 0px -200px 150px;
+   
+    
+}
+.img-Gpu video{
+    width: 776px;
+    margin: -255px 0px 0px 250px;
+}
+.Button-More-On-2{
+    width: 230px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#51515143;
+    position: sticky;
+    top: 60px;
+    margin: 20px 0px 0px 450px;
+
+}
+
+.Button-More-On-2 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-2 img{
+    width: 15px;
+    margin: -15px 0px 0px 190px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
+.Button-Progress .Button-Loading{
+    padding: 4px 25px;
+    animation: example 8s infinite;
+    transition-delay: 8s;
+}
+
+@keyframes example {
+    from { padding: 4px 10px;}
+    to {padding: 4px 25px;}
+    
+  }
+  
+
+.Title-Apple-GPU h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    color: #8e8e8e;
+    margin: 30px 0px 0px 570px;
+}
+
+.Describition-Apple-GPU h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: #8e8e8e;
+    margin: 80px 0px 0px 220px;
+}
+
+.Describition-Apple-GPU  .span1{
+    color: white;
+}
+
+.New-Pro-Class .highlight-Pro-Class h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: #8e8e8e;
+    margin: -255px 0px 0px 700px;
+}
+
+.New-Pro-Class .Title-Pro-Class h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    color: #ffffff;
+    margin: 5px 0px 0px 700px;
+}
+
+.New-Pro-Class .Core6 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: #8e8e8e;
+    margin: 5px 0px 0px 700px;
+}
+.Button-More-On-3{
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#51515143;
+    position: sticky;
+    top: 60px;
+    margin: -17px 0px 0px 450px;
+
+}
+
+.Button-More-On-3 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-3 img{
+    width: 15px;
+    margin: -15px 0px 0px 210px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
+.wildest-imagination{
+    margin: 50px 0px 0px 25px;
+    width: 1218px;
+    height: 3500px;
+    margin: -120px 0px 0px -10px;
+    background: black;
+}
+.Title-wildest-imagination h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 65px;
+    color: #8e8e8e;
+    padding: 250px 0px 0px 150px;
+}
+.Describition-wildest-imagination{
+    margin: -45px 0px 0px 0px;
+}
+.Describition-wildest-imagination h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: #8e8e8e;
+    padding: 0px 0px 0px 150px;
+
+}
+.img-wildest-imagination img{
+    width:1215px;
+    margin: 0px 0px 0px 3px;
+}
+
+.highlights-wildest-imagnation{
+    margin: -120px 0px 0px 0px;
+}
+.highlights-wildest-imagnation h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: #8e8e8e;
+    padding: 5px 0px 0px 110px;
+}
+
+.Title-YourPocket h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: #8e8e8e;
+    padding: 100px 0px 0px 270px;
+}
+
+.Title-YourPocket h4 .span-1{
+    color: white;
+}
+.Gallary-Picture{
+    margin: 65px 0px 50px 270px;
+    overflow-x: hidden;
+    width: 750px;
+
+}
+.Gallary-Picture:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;  
+   
+}
+
+.Picture-1 img{
+    width: 750px;
+    margin: 0xp 0px -100px 0px;
+}
+
+.Picture-2 img{
+    margin: -1500px 0px 17px 750px;
+    width: 750px;
+ 
+}
+.Picture-3 img{
+    margin: -1500px 0px 35px 1500px;
+    width: 750px;
+}
+.Picture-4 img{
+    margin: -1500px 0px 52px 2250px;
+    width: 750px;
+}
+.Picture-5 img{
+    margin: -1500px 0px 70px 3000px;
+    width: 750px;
+}
+.Picture-6 img{
+    margin: -1500px 0px 87px 3750px;
+    width: 750px;
+}
+.Picture-7 img{
+    margin: -1500px 0px 105px 4500px;
+    width: 750px;
+}
+
+.img-Camera-Take img{
+width: 300px;
+margin: 120px 0px 0px 300px;
+}
+
+.Describition-Camera-Take h4{
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: #8e8e8e;
+    margin: -500px 0px 0px 700px;
+}
+.Describition-Camera-Take  .span-1{
+    color: white;
+}
+
+.Line .Hr-1{
+    width: 850px;
+    margin: 300px 0px 0px 150px;
+}
+
+.Title-Shoot h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin: 150px 0px 50px 300px;
+}
+
+.PureProZoom{
+    margin: 50px 0px 0px 25px;
+    width: 1218px;
+    height: 1700px;
+    margin: -150px 0px 0px -10px;
+    background: black;
+} 
+.Title-PureProZoom{
+    padding: 450px 0px 0px 0px;
+}
+.Button-More-On-4{
+    width: 270px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#e2737343;
+    position: sticky;
+    top: 60px;
+    margin: -17px 0px 0px 450px;
+
+}
+
+.Button-More-On-4 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-4 img{
+    width: 15px;
+    margin: -15px 0px 0px 230px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
+.Title-PureProZoom h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 50px 350px;
+}
+
+.Video-PureProZoom video{
+    width: 1000px;
+    margin: 0px 0px 0px 100px;
+}
+
+.Describiton-PureProZoom h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color:#8e8e8e;
+    margin: 100px 0px 50px 250px;
+}
+
+.Describiton-PureProZoom h4 span{
+    color: white;
+}
+
+.Highlights-PureProZoom h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 50px;
+    color:white;
+    margin: -340px 0px 50px 700px;
+}
+.Highlights-PureProZoom p{
+    color: white;
+}
+
+.Quets-PureProZoom h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color:#8e8e8e;
+    margin: -50px 0px 50px 700px;
+}
+
+.GetInOn{
+    margin: 50px 0px 0px 25px;
+    width: 1218px;
+    height: 1700px;
+    margin: 0px 0px 0px -10px;
+    background: black;
+} 
+
+.Tite-GetInOn h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 50px;
+    color:#ffffff;
+    margin: 0px 0px 50px 250px;
+    padding: 250px 0px 0px 0px;
+}
+
+.Pargraph-GetInOn h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 20px;
+    color: #8e8e8e;
+    margin: 0px 0px 0px 250px;
+}
+
+.Notifaction-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+.Notifaction-Name{
+    margin:   -25px 0px 0px 330px;
+    ;
+}
+.Notifaction-Name a{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+    
+   
+}
+.Notifaction-Name a:hover{
+    color: white;
+
+}
+.line-1 .Hr-2{
+    width: 400px;
+    margin: 50px 0px 0px 250px;
+}
+
+.Focus-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+
+.Focus-Name a{ 
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+}
+.Focus-Name a:hover{
+    color: white;
+}
+.Focus-Name {
+    margin:   -25px 0px 0px 330px;
+    ;
+}
+.Camera-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+.Camera-Name {
+    margin:   -25px 0px 0px 330px;
+    
+}
+.Camera-Name a{ 
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+}
+.Camera-Name a:hover{
+    color: white;
+}
+.Flash-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+.Flash-Name {
+    margin:   -25px 0px 0px 330px;
+    
+}
+.Flash-Name a{ 
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+}
+.Flash-Name a:hover{
+    color: white;
+}
+.Voice-Memo-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+.Voice-Memo-Name {
+    margin:   -25px 0px 0px 330px;
+    
+}
+.Voice-Memo-Name a{ 
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+}
+.Voice-Memo-Name a:hover{
+    color: white;
+}
+
+
+.Translate-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+.Translate-Name {
+    margin:   -25px 0px 0px 330px;
+    
+}
+.Translate-Name a{ 
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+}
+.Translate-Name a:hover{
+    color: white;
+}
+
+.ShortCut-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+.ShortCut-Name {
+    margin:   -25px 0px 0px 330px;
+    
+}
+.ShortCut-Name a{ 
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+}
+.ShortCut-Name a:hover{
+    color: white;
+}
+.Accessibilty-img img{
+    width: 25px;
+    margin: 20px 0px 0px 300px;
+}
+.Accessibilty-Name {
+    margin:   -25px 0px 0px 330px;
+    
+}
+.Accessibilty-Name a{ 
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 13px;
+    color: #8e8e8e;
+    text-decoration: none;
+}
+.Accessibilty-Name a:hover{
+    color: white;
+}
+
+
+.IPhone15Pro-loop video{
+    width: 400px;
+    margin: -560px 0px 0px 650px;
+   
+}
+.Defult{
+    margin: 0px 0px 0px 270px;
+}
+.Defult h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 20px;
+    color: #8e8e8e;
+    z-index: 5px;
+
+
+}
+
+.Action-Button{
+    margin: -200px 0px 0px 700px;
+
+}
+
+.Action-Button h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 20px;
+    color: #8e8e8e;
+
+}
+.Action-Button  span{
+    color: white;
+}
+
+
+.Gigablast{
+    width: 1218px;
+    height: 2300px;
+    margin:0px 0px 0px -10px;
+    background: black;
+}
+
+.Title-Gigablast h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 70px;
+    color: white;
+    margin: -70px 0px 0px 250px;
+    padding: 0px 0px 0px 0px;
+
+}
+.Exploring-Connectivity-img{
+    margin: 100px 0px 0px 100px;
+}
+.Exploring-Connectivity-img img{
+    width: 1100px;
+}
+.Button-More-On-5{
+    width: 220px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#8e8e8e64;
+    position: sticky;
+    top: 60px;
+    margin: -17px 0px 0px 450px;
+
+}
+
+.Button-More-On-5 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-5 img{
+    width: 15px;
+    margin: -15px 0px 0px 180px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
+
+.Title-Exploring-Connectivity h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin: 50px 0px 0px 250px;
+    padding: 15px 0px 0px 20px;
+    color: #8e8e8e;
+}
+.Title-Exploring-Connectivity span{
+    color: white;
+}
+.Highlight-Faster{
+    margin: -280px 0px 0px 0px ;
+}
+.Highlight-Faster h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin:0px 0px 0px 800px;
+        color: #8e8e8e;
+}
+.Number-Faster h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    margin:5px 0px 0px 800px;
+        color: white;
+}
+.Higlight-Number-faster h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin:5px 0px 0px 800px;
+        color: #8e8e8e;
+}
+
+.Describition-Number-Faster h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin:35px 0px 0px 800px;
+        color: #8e8e8e;
+}
+.Describition-Number-Faster span{
+    color: white;
+}
+.BatteryLife{
+    width: 1218px;
+    height: 1700px;
+    margin:-5px 0px 0px -10px;
+    background: black;
+}
+
+.Title-BattaryLife h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 70px;
+    margin:-100px 0px 0px 350px;
+    padding:0px 0px 0px 0px;
+        color: white;
+}
+
+.Describition-BattaryLife h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    margin: 5px 0px 0px 260px;
+    padding: 30px 0px 0px 0px;
+        color: white;
+}
+
+.Chip-BattaryLife{
+    margin: 60px 0px 0px 60px;
+}
+.Chip-BattaryLife img{
+    width: 1100px;
+}
+
+.Video-BattaryLife{
+    margin: -525px 0px 0px 140px;
+  
+}
+.Video-BattaryLife img{
+    width: 965px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 20px;
+}
+
+.Highlight-PlayBack h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    margin: 5px 0px 0px 260px;
+    padding: 70px 0px 0px 0px;
+        color: #8e8e8e;
+}
+.Clock-hours h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 70px;
+    margin: 5px 0px 0px 260px;
+    padding: 5px 0px 0px 0px;
+        color:white;
+}
+
+.VidoePlayBack h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin: 5px 0px 0px 260px;
+    padding: 5px 0px 0px 0px;
+        color:#8e8e8e;
+}
+
+.Highlight-PlayBackPro h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    margin: 5px 0px 0px 260px;
+    padding:30px 0px 0px 0px;
+        color: #8e8e8e;
+}
+.Clock-hoursPro h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 70px;
+    margin: 5px 0px 0px 260px;
+    padding: 5px 0px 0px 0px;
+        color:white;
+}
+
+.VidoePlayBackPro h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin: 5px 0px 0px 260px;
+    padding: 5px 0px 0px 0px;
+        color:#8e8e8e;
+}
+
+.MagSafe{
+    margin: -370px 0px 0px 400px;
+}
+.MagSafe span{
+    color: white;
+}
+.MagSafe h4{
+    margin: 0px 0px 0px 0px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    margin: 5px 0px 0px 260px;
+    padding: 5px 0px 0px 0px;
+        color:#8e8e8e;
+}
+.Hr-5{
+    margin:90px 0px 0px 485px;
+}
+.hr-5{
+    width: 380px;
+}
+
+.img-BattaryLife{
+    margin: 25px 0px 0px 660px;
+}
+.img-BattaryLife img{
+    width: 45px;
+}
+
+.Title-Cycle-BattaryLife h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin: -50px 0px 0px 750px;
+    padding: 5px 0px 0px 0px;
+        color:#8e8e8e;
+}
+.Title-Cycle-BattaryLife1 h4{
+   
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin: 25px 0px 0px 750px;
+    padding: 5px 0px 0px 0px;
+        color:#8e8e8e;
+}
+
+
+.Features-iPhone15Pro{
+    width: 1218px;
+    height: 2300px;
+    margin:0px 0px 0px -10px;
+    background: black;
+}
+
+.Emergency-img{
+    margin: 0px 0px 0px 80px;
+    padding: 100px 0px 0px 0px;
+}
+.Emergency-img img{
+    width: 1050px;
+    border-radius: 30px;
+}
+
+.Emergency-Title h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 55px;
+    margin: -500px 0px 0px 200px;
+    padding: 5px 0px 0px 0px;
+        color:white;
+}
+
+.Emergency-Footer{
+    width: 1050px;
+    height: 350px ;
+    background: #101010;
+    margin: 300px 0px 0px 80px;
+}
+.Higlight-Emergency-Footer h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    margin: 15px 0px 0px 150px;
+    padding: 100px 0px 0px 0px;
+        color:#8e8e8e;
+
+}
+.Higlight-Emergency-Footer span{
+    color: white;
+}
+.Higlight-Emergency-Footer1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    margin: -70px 0px 0px 600px;
+    padding: 0px 0px 0px 0px;
+        color:#8e8e8e;
+
+}
+.Higlight-Emergency-Footer1 span{
+    color: white;
+}
+.Button-More-On-6{
+    width: 230px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#8e8e8e64;
+    position: sticky;
+    top: 60px;
+    margin: -17px 0px 0px 450px;
+
+}
+
+.Button-More-On-6 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-6 img{
+    width: 15px;
+    margin: -15px 0px 0px 190px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
+
+.Design-Features{
+    width: 1050px;
+    height: 770px;
+    background:#101010;
+    margin: 90px 0px 0px 80px;
+}
+
+.img-Design-Features{
+    padding: 120px 0px 0px 150px;
+}
+.img-Design-Features img{
+    width: 180px;
+
+}
+
+.Title-Design-Features h4{
+    
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 50px;
+        margin: 20px 0px 0px 150px;
+            color:white;
+}
+.Line-3{
+    margin: 80px 0px 0px 0px;
+}
+.Line-3 .Hr-6{
+    width: 750px;
+}
+.Highlight-Design-Features h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    margin: 70px 0px 0px 150px;
+    padding: 0px 0px 0px 0px;
+        color:#8e8e8e;
+
+}
+.Highlight-Design-Features span{
+    color: white;
+}
+
+.Highlight-Design-Features1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    margin: -135px 0px 0px 650px;
+    padding: 0px 0px 0px 0px;
+        color:#8e8e8e;
+}
+.OneHunderend h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 35px;
+    margin:5px 0px 70px 650px;
+    padding: 0px 0px 0px 0px;
+        color:white;
+}
+
+.Button-More-On-7{
+    width: 270px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#8e8e8e64;
+    position: sticky;
+    top: 60px;
+    margin: -17px 0px 0px 450px;
+
+}
+
+.Button-More-On-7 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-7 img{
+    width: 15px;
+    margin: -15px 0px 0px 230px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
+.iOS-17{
+    width: 1218px;
+    height: 1450px;
+    margin:-100px 0px 0px -10px;
+    background: black;
+}
+.Style-it-out{
+    width: 1050px;
+    height: 1300px;
+    background: #101010;
+    margin: -350px 0px 0px 80px;
+}
+
+.Title-iOS-17 h4{
+    
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    margin: 0px 0px 0px 150px;
+    padding: 80px 0px 0px 0px;
+        color:#8e8e8e;
+}
+.Highlight-iOS-17 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    margin: 0px 0px 0px 150px;
+    padding: 0px 0px 0px 0px;
+        color:white;
+
+}
+.PosterDropSticker{
+    display: flex;
+    background: transparent;
+}
+
+
+
+.PosterDropSticker > div img{
+    margin: 100px -80px 0px 0px;
+  padding: 0px 0px 0px 120px;
+  width: 250px;
+}
+
+
+.Title-PosterDropSticker{
+    display: flex;
+    background: transparent;
+}
+.Title-PosterDropSticker > div h4{
+    margin: 50px -80px 0px 40px;
+    padding: 0px 0px 0px 90px;
+    width: 250px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color:#8e8e8e;
+}
+
+.Title-PosterDropSticker span{
+    color: white;
+}
+
+.SignificantOther{
+    width: 1090px;
+    height: 700px;
+    background: black;
+    margin: 0px 0px -150px 50px;
+    border-radius: 30px;
+   
+}
+
+.Highlight-SignificantOther{
+margin: 180px 0px 40px 10px;
+}
+.Highlight-SignificantOther h4{
+font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    color:#8e8e8e;
+    margin: 0px 0px 0px 40px;
+}
+.Title-IPhoneAndAppleWatch h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    color:white;
+    margin: 0px 0px 0px 80px;
+    padding: 100px 0px 0px 0px;
+}
+.icon-IPhoneAndAppleWatch{
+    margin: -70px 0px 0px 450px;
+}
+.icon-IPhoneAndAppleWatch img{
+    width: 40px;
+}
+
+.Describition-IPhoneAndAppleWatch h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color:#8e8e8e;
+    margin: 50px 0px 0px 80px;
+}
+.Hr-7{
+    margin: 30px 0px 0px -630px;
+    padding: 0px 0px 0px 0px;
+}
+.Hr-7 .hr-7{
+    width: 300px;
+    
+}
+.img-SignificantOther{
+    margin: -300px 0px 0px 650px;
+}
+.img-SignificantOther img{
+    width: 400px;
+}
+
+.Title-iPhoneMac{
+    margin: -250px 0px 0px 80px;
+}
+.Title-iPhoneMac h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    color:white;
+}
+.Hr-8{
+    margin: 40px 0px 0px -630px;
+}
+.Hr-8 .hr-8{
+    width: 300px;
+    
+}
+
+.icon-iPhoneMac{
+    margin: -70px 0px 0px 450px;
+}
+.icon-iPhoneMac img{
+    width: 40px;
+}
+.Title-iPhoneAirPods{
+    margin: 0px 0px 0px 80px;
+}
+.Title-iPhoneAirPods h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    color:white;
+}
+
+.icon-iPhoneAirPods{
+    margin: -60px 0px 0px 450px;
+}
+.icon-iPhoneAirPods img{
+    width: 20px;
+}
+
+
+.Advantage-iPhone15Pro{
+margin: 450px 0px 0px 50px;
+}
+
+.Title-Advantage-iPhone15Pro h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+    color:#8e8e8e;
+}
+.Advantage-1{
+    overflow-x: hidden;
+    height: 350px;
+}
+.Advantage-1:hover{
+    overflow-x: scroll;
+    scrollbar-color: transparent transparent;  
+
+}
+.Advantage-1 .List-1{
+    margin: 0px 0px 0px 0px;
+}
+
+.PayOverTime{
+    background: #242426;
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 0px 0px 0px 0px;
+    transition: 1s all ease-in 1s;
+
+    
+}
+.PayOverTime .img-PayOverTime{
+    width: 45px;
+    margin: 40px 0px 0px 30px;
+}
+.Advantage-1 .PayOverTime .M3{
+    font-size: 25px;
+    color: white;
+margin:10px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .PayOverTime .Pro{
+    font-size: 15px;
+margin: 15px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: white;
+}
+.Advantage-1 .PayOverTime .fa-plus{
+color: grey;
+margin:50px 0px 0px 300px;
+background: white;
+padding: 10px;
+border-radius: 50px;
+}
+
+.Trade-In{
+    background: #242426;
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+    margin: -300px 0px 0px 360px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Trade-In .img-Trade-In{
+    width: 45px;
+    margin: 40px 0px 0px 30px;
+}
+.Advantage-1 .Trade-In .M3{
+    font-size: 25px;
+    color: white;
+margin:15px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Trade-In .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: white;
+}
+.Advantage-1 .Trade-In .fa-plus{
+color: gray;
+margin:45px 0px 0px 300px;
+background: white;
+padding: 10px;
+border-radius: 50px;
+}
+
+.Customize{
+    background: #242426;
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+    margin: -300px 0px 0px 720px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Customize .img-Customize{
+    width: 45px;
+    margin: 40px 0px 0px 30px;
+}
+.Advantage-1 .Customize .M3{
+    font-size: 25px;
+    color: white;
+margin:10px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Customize .Pro{
+    font-size: 15px;
+margin: 10px 0px 50px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: white;
+}
+.Customize-button{
+    margin: -50px 0px 0px 0px;
+}
+.Advantage-1 .Customize .Customize-button .fa-angle-right{
+    color: gray;
+    margin:-5px 0px 0px 300px;
+    background: white;
+    padding: 10px 12px;
+    border-radius: 50px;
+    }
+
+.Flexible{
+    background: #242426;
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+    margin: -300px 0px 0px 1080px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Flexible .img-Flexible{
+    width: 45px;
+    margin: 45px 0px 0px 30px;
+}
+.Advantage-1 .Flexible .M3{
+    font-size: 25px;
+    color: white;
+margin:15px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Flexible .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: white;
+}
+.Advantage-1 .Flexible .Flexible-button .fa-plus{
+    color: grey;
+    margin:25px 0px 0px 300px;
+    background: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+
+.Shop{
+    background: #242426;
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+    margin: -300px 0px 25px 1440px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Shop .img-Shop{
+    width: 45px;
+    margin: 40px 0px 0px 30px;
+}
+.Advantage-1 .Shop .M3{
+    font-size: 25px;
+    color: white;
+margin:10px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Shop .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: white;
+}
+.Advantage-1 .Shop .Shop-button  .fa-plus{
+    color: grey;
+    margin:45px 0px 0px 300px;
+    background: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.GetKnow{
+    background: #242426;
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+    margin: -325px 0px 25px 1800px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.GetKnow .img-GetKnow{
+    width: 45px;
+    margin: 40px 0px 0px 30px;
+}
+.Advantage-1 .GetKnow .M3{
+    font-size: 25px;
+    color: white;
+margin:10px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .GetKnow .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: white;
+}
+.Advantage-1 .GetKnow .GetKnow-button  .fa-plus{
+    color: grey;
+    margin:35px 0px 0px 300px;
+    background: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.Explore{
+    background: #242426;
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+    margin: -325px 0px 25px 2160px;
+    transition: 1s all ease-in 1s;
+    
+    
+}
+.Explore .img-Explore{
+    width: 45px;
+    margin: 40px 0px 0px 30px;
+}
+.Advantage-1 .Explore .M3{
+    font-size: 25px;
+    color: white;
+margin:10px 0px 0px 30px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+}
+.Advantage-1 .Explore .Pro{
+    font-size: 15px;
+margin: 10px 0px 0px 30px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: white;
+}
+.Advantage-1 .Explore .Explore-button  .fa-plus{
+    color: grey;
+    margin:30px 0px 0px 300px;
+    background: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.Title-Comparative-Devices h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    color:#8e8e8e;
+    margin: 90px 0px 0px 50px;
+}
+.Continer-Comparative-Device{
+    width: 1100px;
+    height: 1250px;
+    margin: 20px 0px 0px 50px;
+    background: black;
+    border-radius: 30px;
+}
+.img-iPhone15Pro{
+    padding: 60px 0px 0px 250px;
+}
+.img-iPhone15Pro img{
+    width: 250px;
+}
+.Button-iPhone-15-1{
+    margin: 10px 0px 0px 260px;
+}
+.Button-iPhone-15-1 .Main-Button-iPhone-icon{
+    margin: 0px 0px 0px 55px;
+}
+
+.Button-iPhone-15-1 button{
+    padding: 6px 6px;
+    margin: 25px 0px 0px 1px;
+    border: #5959596d 1px solid;
+    border-radius: 50px;
+}
+
+.Title-iPhone15Pro h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color:white;
+    margin: 20px 0px 0px 270px;
+}
+
+.Price-iPhone15Pro h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 17px;
+    color:white;
+    margin: 20px 0px 0px 230px;
+}
+
+.Curretly-View h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color:#8e8e8e;
+    margin: 50px 0px 0px 250px;
+}
+
+
+.Buy-iPhone15Pro{
+    margin: -40px 0px 0px 420px;
+}
+.Buy-iPhone15Pro h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    color:rgb(32, 101, 250);
+}
+.icon-iPhone15Pro{
+    margin: -35px 0px 0px 450px;
+
+}
+.icon-iPhone15Pro img{
+    width: 15px;
+}
+
+.img-iPhone15{
+  margin: -550px 0px 0px 650px;
+}
+.img-iPhone15 img{
+    width: 250px;
+}
+.Button-iPhone15{
+    margin: 10px 0px 0px 700px;
+}
+.Button-iPhone15 .Main-Button-iPhone-icon{
+    margin: 0px 0px 0px 55px;
+}
+
+.Button-iPhone15 button{
+    padding: 6px 6px;
+    margin: 25px 0px 0px 1px;
+    border: #5959596d 1px solid;
+    border-radius: 50px;
+}
+.Title-iPhone15 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color:white;
+    margin: 15px 0px 0px 720px;
+}
+
+.Price-iPhone15 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 17px;
+    color:white;
+    margin: 15px 0px 0px 650px;
+}
+
+.Button-View button{
+    padding: 15px 20px;
+    color: white;
+    background: rgb(0, 119, 255);
+    border-radius: 30px;
+    border: none;
+    font-size: 15px;
+    margin: 35px 0px 0px 680px;
+}
+.Buy-iPhone15{
+    margin: -50px 0px 0px 860px;
+}
+.Buy-iPhone15 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    color:rgb(32, 101, 250);
+}
+
+.icon-iPhone15{
+    margin: -35px 0px 0px 890px;
+
+}
+.icon-iPhone15 img{
+    width: 15px;
+}
+
+.Hr-9 .hr-9{
+    width: 780px;
+    margin: 75px 0px 0px 200px;
+}
+
+.GPU{
+    margin: 45px 0px 0px 350px;
+}
+.GPU img{
+    width: 50px;
+}
+
+.Title-GPU h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+    margin: 15px 0px 0px 280px;
+}
+
+
+.ProCamera{
+    margin: 30px 0px 0px 350px;
+}
+.ProCamera img{
+    width: 50px;
+}
+
+.Title-ProCamera h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+    margin: 15px 0px 0px 260px;
+}
+
+.Describition-ProCamera h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    color: white;
+    margin: 15px 0px 0px 265px;
+}
+
+.Battary{
+    margin: 50px 0px 0px 350px;
+}
+.Battary img{
+    width: 50px;
+}
+
+.Title-Battary h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+    margin: 15px 0px -480px 250px;
+}
+
+---
+
+.GPU-iPhone15{
+    margin: 0px 0px 0px 0px;
+}
+.GPU-iPhone15 img{
+    width: 50px;
+    margin: 0px 0px 0px 780px;
+
+}
+.Title-iPhone15a{
+    margin: 0px 0px 0px;
+}
+.Title-iPhone15a h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+    margin: 15px 0px 0px 710px;
+}
+
+
+.ProCamera1{
+    margin:30px 0px 0px 780px;
+}
+.ProCamera1 img{
+    width: 50px;
+}
+
+.Title-ProCamera1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+    margin: 15px 0px 0px 675px;
+}
+
+.Describition-ProCamera1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    color: white;
+    margin: 15px 0px 0px 765px;
+}
+
+.Battary1{
+    margin: 20px 0px 0px 790px;
+}
+.Battary1 img{
+    width: 50px;
+}
+
+.Title-Battary1 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+    margin: 15px 0px 0px 700px;
+}
+
+
+.Last-Part{
+    margin: 250px 0px 0px -10px;
+    width: 1216px;
+    height: 650px;
+    background: black;
+}
+
+.Title-Last-Part{
+    padding: 60px 0px 0px 60px;
+}
+
+.Title-Last-Part h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 35px;
+    color: #8e8e8e;
+}
+
+.Title-Explore{
+    margin: 60px 0px 0px 60px;
+}
+
+.Title-Explore h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    color: #5a5a5a;
+}
+
+.List-Explore ul li h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    margin: 10px 0px 0px 20px;
+}
+.List-Explore1 ul{
+    margin: 35px 0px 0px 0px;
+}
+.List-Explore1 ul li h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    color: white;
+    margin: 15px 0px 0px 20px;
+}
+
+.Shop-iPhone{
+    margin: -410px 0px 0px 430px;
+}
+.Shop-iPhone h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style: normal;
+    font-size: 12px;
+    color: #5a5a5a;
+}
+.List-Shop-iPhone ul{
+    margin: 20px 0px 0px 370px;
+}
+.List-Shop-iPhone ul li h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    color: white;
+    margin: 15px 0px 0px 20px;
+}
+
+.Go-Further{
+    margin: -195px 0px 0px 630px;
+}
+.Go-Further h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style: normal;
+    font-size: 12px;
+    color: #5a5a5a;
+}
+.List-Go-Further ul{
+    margin: 20px 0px 0px 570px;
+}
+.List-Go-Further ul li h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    color: white;
+    margin: 15px 0px 0px 20px;
+}
+
+.Notes{
+    margin: 10px 0px 80px 120px;    
+    width: 990px;
+}
+
+.Notes p{
+    margin: 25px 0px -50px 80px;  
+    font-size: 12px;
+    margin: 8px 0px 0px 30px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgba(96, 96, 96, 0.813);
+
+}
+
+.Notes p a{
+    color: black;
+}
+.Notes hr{
+    width: 950px;
+    margin: 15px 0px -65px 30px;
+}
+
+.FOOTER{
+    width: 1050px;
+    margin: 5px 0px 150px 30px;
+}
+.FOOTER .FOOTER-LOGO .AppleLogo{
+    width: 15px;
+    margin: 0px 0px 10px 120px;
+    display: inline-block;
+
+}
+.FOOTER-Arrow{
+    margin:-28px 0px 0px 140px;
+}
+.FOOTER-Arrow1{
+    margin: -37px 0px 0px 280px;
+}
+.FOOTER .FOOTER-Arrow .fa-chevron-right{
+    margin: 0px 0px 0px 0px;
+
+}
+.FOOTER .FOOTER-Arrow1 .fa-angle-right{
+    margin: 20px 0px 0px 0px;
+
+}
+.FOOTER-text1 {
+    margin:-20px 0px 0px 160px;
+
+}
+.FOOTER .FOOTER-text1 a{
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+        word-break: break-all;
+        font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 462;
+      font-style: normal;
+      color: rgba(255, 255, 255, 0.71);
+    }
+.FOOTER-text1 a:hover{
+    text-decoration: underline;
+}
+.FOOTER-text{
+    margin:-20px 0px 0px 300px;
+
+}
+.FOOTER .FOOTER-text h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 462;
+  font-style: normal;
+  color: rgba(255, 255, 255, 0.71);
+}
+
+.FOOTER-list{
+    margin: 20px 0px 10px 120px;
+}
+.FOOTER .FOOTER-list h4{
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    font-size: 12px;
+    word-break: break-all;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 662;
+  font-style: normal;
+  color: white;
+}
+
+.ShopAndLearn a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+}
+.ShopAndLearn a:hover{
+    text-decoration: underline;
+}
+.AppleWallet{
+    margin: 25px 0px 0px 0px;
+
+}
+.AppleWallet a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+}
+.AppleWallet a:hover{
+    text-decoration: underline;
+}
+.Account{
+    margin: -440px 0px 0px 200px;
+}
+.Account a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.Account a:hover{
+    text-decoration: underline;
+}
+
+.Entertainment{
+    margin: 25px 0px 0px 200px;
+}
+
+.Entertainment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.Entertainment a:hover{
+    text-decoration: underline;
+}
+
+.AppleStore{
+    margin: -365px 0px 0px 400px;
+}
+.AppleStore a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.AppleStore a:hover{
+    text-decoration: underline;
+}
+
+.ForBusiness{
+    margin: -298px 0px 0px 585px;
+}
+.ForBusiness a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.ForBusiness a:hover{
+    text-decoration: underline;
+}
+
+.ForEducation{
+    margin: 20px 0px 0px 585px;
+}
+.ForEducation a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.ForEducation a:hover{
+    text-decoration: underline;
+}
+
+.ForHealthcare{
+    margin: 20px 0px 0px  585px;
+}
+.ForHealthcare a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.ForHealthcare a:hover{
+    text-decoration: underline;
+}
+
+.ForGovernment{
+    margin: 20px 0px 0px  585px;
+}
+.ForGovernment a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.ForGovernment a:hover{
+    text-decoration: underline;
+}
+.AppleValues1{
+    margin: -385px 0px 0px 770px;
+}
+.AppleValues1 a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.AppleValues1 a:hover{
+    text-decoration: underline;
+}
+.AboutApple{
+    margin: 20px 0px 0px 770px;
+}
+.AboutApple a{
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 11px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+.AboutApple a:hover{
+    text-decoration: underline;
+}
+.FOOTER-Last{
+    width: 1050px;
+    margin: -110px 0px 50px 150px;
+}
+
+.FOOTER-Last p{
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+    }
+
+.FOOTER-Last a{
+    color: rgba(99, 181, 249, 0.646);
+}
+
+.FOOTER-Last hr{
+    width: 950px;
+    margin: 20px 0px 0px -1px;
+}
+.FOOTER-COPYWRITING{
+    width: 950px;
+    margin: -50px 0px 0px 150px;
+
+}
+
+.FOOTER-COPYWRITING p{
+    padding: 10px 0px 0px 0px;
+    text-decoration:none;
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a1{
+    display: inline-block;
+    padding: 0px 0px 0px 25px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a2{
+    display: inline-block;
+    padding: 0px 0px 0px 14px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        display: inline-block;
+}
+.FOOTER-COPYWRITING a{
+    display: inline-block;
+    padding: 0px 0px 0px 10px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        display: inline-block;
+}
+.FOOTER-COPYWRITING .a3{
+    display: inline-block;
+    padding: 0px 168px 0px 10px;
+    text-decoration:none;
+
+    font-size: 12px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        display: inline-block;
+}
+.FOOTER-COPYWRITING1{
+    margin: -35px 0px 30px 480px;
+    width: 500px;
+   
+}
+.FOOTER-COPYWRITING1 .hr1{
+    width: 0px;
+    height: 9px;
+    margin: 12px 0px 0px 53px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr2{
+    width: 0px;
+    height: 8px;
+    margin: 12px 0px 0px 83px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr3{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 112px;
+    display: inline-block;
+}
+.FOOTER-COPYWRITING1 .hr4{
+    width: 0px;
+    height: 10px;
+    margin: 10px 0px 0px 40px;
+    display: inline-block;
+}
+
+.Button-More-On-8{
+    width: 210px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background:#8e8e8e64;
+    position: sticky;
+    top: 60px;
+    margin: -17px 0px 0px 450px;
+
+}
+
+.Button-More-On-8 h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    padding: 15px 0px 0px 45px;
+    color: white;
+    margin: 0px 0px -10px -25px;
+
+}
+
+
+.Button-More-On-8 img{
+    width: 15px;
+    margin: -15px 0px 0px 170px;
+    background: rgba(27, 27, 176, 0.566);
+    border-radius: 50px;
+    padding: 8px 8px;
+}
